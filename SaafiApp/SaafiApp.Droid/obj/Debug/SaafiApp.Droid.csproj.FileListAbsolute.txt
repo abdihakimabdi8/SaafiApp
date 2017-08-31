@@ -1,0 +1,5 @@
+C:\Users\habdi\Desktop\SaafiApp\SaafiApp\SaafiApp.Droid\obj\Debug\SaafiApp.Droid.csprojResolveAssemblyReference.cache
+C:\Users\habdi\Desktop\SaafiApp\SaafiApp\SaafiApp.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
+C:\Users\habdi\Desktop\SaafiApp\SaafiApp\SaafiApp.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll.stamp
+C:\Users\habdi\Desktop\SaafiApp\SaafiApp\SaafiApp.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll.stamp
+C:\Users\habdi\Desktop\SaafiApp\SaafiApp\SaafiApp.Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll.stamp

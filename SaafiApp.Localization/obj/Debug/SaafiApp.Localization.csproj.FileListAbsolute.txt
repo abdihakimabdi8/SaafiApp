@@ -1,0 +1,7 @@
+C:\Users\habdi\Desktop\SaafiApp\SaafiApp.Localization\bin\Debug\SaafiApp.Localization.dll
+C:\Users\habdi\Desktop\SaafiApp\SaafiApp.Localization\bin\Debug\SaafiApp.Localization.pdb
+C:\Users\habdi\Desktop\SaafiApp\SaafiApp.Localization\obj\Debug\SaafiApp.Localization.Strings.resources
+C:\Users\habdi\Desktop\SaafiApp\SaafiApp.Localization\obj\Debug\SaafiApp.Localization.csproj.GenerateResource.Cache
+C:\Users\habdi\Desktop\SaafiApp\SaafiApp.Localization\obj\Debug\SaafiApp.Localization.csproj.CoreCompileInputs.cache
+C:\Users\habdi\Desktop\SaafiApp\SaafiApp.Localization\obj\Debug\SaafiApp.Localization.dll
+C:\Users\habdi\Desktop\SaafiApp\SaafiApp.Localization\obj\Debug\SaafiApp.Localization.pdb
