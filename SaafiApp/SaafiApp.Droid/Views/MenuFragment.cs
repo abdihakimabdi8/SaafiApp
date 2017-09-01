@@ -3,7 +3,7 @@ using Android.Runtime;
 using Android.Views;
 using MvvmCross.Binding.Droid.BindingContext;
 using MvvmCross.Droid.Shared.Attributes;
-using SaafiApp.Core.ViewModel;
+using SaafiApp.Core.ViewModels;
 using SaafiApp.Droid.Activities;
 using System;
 using MvvmCross.Droid.Support.V7.Fragging.Fragments;

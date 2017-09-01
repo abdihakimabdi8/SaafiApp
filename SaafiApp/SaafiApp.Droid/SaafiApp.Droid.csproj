@@ -106,11 +106,23 @@
     <Reference Include="MvvmCross.Platform.Droid, Version=5.0.1.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\packages\MvvmCross.Platform.5.0.1\lib\MonoAndroid\MvvmCross.Platform.Droid.dll</HintPath>
     </Reference>
+    <Reference Include="MvvmCross.Plugins.File, Version=5.1.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\MvvmCross.Plugin.File.5.1.1\lib\MonoAndroid\MvvmCross.Plugins.File.dll</HintPath>
+    </Reference>
+    <Reference Include="MvvmCross.Plugins.File.Droid, Version=5.1.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\MvvmCross.Plugin.File.5.1.1\lib\MonoAndroid\MvvmCross.Plugins.File.Droid.dll</HintPath>
+    </Reference>
     <Reference Include="MvvmCross.Plugins.Json, Version=5.0.1.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\packages\MvvmCross.Plugin.Json.5.0.1\lib\MonoAndroid\MvvmCross.Plugins.Json.dll</HintPath>
     </Reference>
     <Reference Include="MvvmCross.Plugins.Messenger, Version=5.0.1.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\packages\MvvmCross.Plugin.Messenger.5.0.1\lib\MonoAndroid\MvvmCross.Plugins.Messenger.dll</HintPath>
+    </Reference>
+    <Reference Include="MvvmCross.Plugins.Sqlite, Version=4.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\MvvmCross.Plugin.SQLitePCL.4.4.0\lib\MonoAndroid\MvvmCross.Plugins.Sqlite.dll</HintPath>
+    </Reference>
+    <Reference Include="MvvmCross.Plugins.Sqlite.Droid, Version=4.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\MvvmCross.Plugin.SQLitePCL.4.4.0\lib\MonoAndroid\MvvmCross.Plugins.Sqlite.Droid.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Newtonsoft.Json.10.0.2\lib\netstandard1.3\Newtonsoft.Json.dll</HintPath>
@@ -251,6 +263,9 @@
     <AndroidResource Include="Resources\drawable\toolbar_dropshadow.axml" />
     <AndroidResource Include="Resources\values\SplashStyle.axml" />
     <AndroidResource Include="Resources\values\dimens.axml" />
+    <AndroidResource Include="Resources\layout\SearchResultsView.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Assets\" />

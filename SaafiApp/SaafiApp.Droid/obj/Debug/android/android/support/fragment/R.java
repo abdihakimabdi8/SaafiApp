@@ -2432,15 +2432,16 @@ containing a value of this type.
         public static final int remittancedetailsview=0x7f030035;
         public static final int savedremittancesview=0x7f030036;
         public static final int searchremittanceview=0x7f030037;
-        public static final int select_dialog_item_material=0x7f030038;
-        public static final int select_dialog_multichoice_material=0x7f030039;
-        public static final int select_dialog_singlechoice_material=0x7f03003a;
-        public static final int settingsview=0x7f03003b;
-        public static final int splashscreen=0x7f03003c;
-        public static final int support_simple_spinner_dropdown_item=0x7f03003d;
-        public static final int toolbar=0x7f03003e;
-        public static final int toolbar_shadow=0x7f03003f;
-        public static final int week=0x7f030040;
+        public static final int searchresultsview=0x7f030038;
+        public static final int select_dialog_item_material=0x7f030039;
+        public static final int select_dialog_multichoice_material=0x7f03003a;
+        public static final int select_dialog_singlechoice_material=0x7f03003b;
+        public static final int settingsview=0x7f03003c;
+        public static final int splashscreen=0x7f03003d;
+        public static final int support_simple_spinner_dropdown_item=0x7f03003e;
+        public static final int toolbar=0x7f03003f;
+        public static final int toolbar_shadow=0x7f030040;
+        public static final int week=0x7f030041;
     }
     public static final class string {
         public static final int ApplicationName=0x7f0a0025;

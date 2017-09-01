@@ -4,7 +4,7 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using MvvmCross.Droid.Shared.Attributes;
-using SaafiApp.Core.ViewModel;
+using SaafiApp.Core.ViewModels;
 using MvvmCross.Binding.Droid.BindingContext;
 using MvvmCross.Droid.Support.V7.Fragging.Fragments;
 using SaafiApp.Droid.Activities;
@@ -22,7 +22,7 @@ namespace SaafiApp.Droid.Views
         public override View OnCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
         {
             base.OnCreateView(inflater, container, savedInstanceState);
-            return this.BindingInflate(Resource.Layout.SearchJourneyView, null);
+            return this.BindingInflate(Resource.Layout.SearchRemittanceView, null);
         }
 
         public override void OnViewCreated(View view, Bundle savedInstanceState)

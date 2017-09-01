@@ -13,6 +13,7 @@ using MvvmCross.Platform.Platform;
 using SaafiApp.Core.Contracts.Services;
 using SaafiApp.Droid.Services;
 using SaafiApp.Core;
+
 namespace SaafiApp.Droid
 {
     public class Setup : MvxAndroidSetup
