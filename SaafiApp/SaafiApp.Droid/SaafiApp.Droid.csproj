@@ -245,7 +245,7 @@
     <AndroidResource Include="Resources\layout\MainView.axml" />
     <AndroidResource Include="Resources\layout\RemittanceDetailsView.axml" />
     <AndroidResource Include="Resources\layout\SavedRemittancesView.axml" />
-    <AndroidResource Include="Resources\layout\SearchJourneyView.axml" />
+    <AndroidResource Include="Resources\layout\SearchRemittanceView.axml" />
     <AndroidResource Include="Resources\drawable\border_button.axml" />
     <AndroidResource Include="Resources\drawable\secondary_button_selector.axml" />
     <AndroidResource Include="Resources\drawable\toolbar_dropshadow.axml" />
@@ -257,8 +257,6 @@
     <Folder Include="Resources\anim\" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\layout\layout_fragment_first.xml" />
-    <AndroidResource Include="Resources\layout\layout_fragment_second.xml" />
     <AndroidResource Include="Resources\values\colors.xml" />
     <AndroidResource Include="Resources\values\dimens.xml" />
     <AndroidResource Include="Resources\values\styles.xml" />

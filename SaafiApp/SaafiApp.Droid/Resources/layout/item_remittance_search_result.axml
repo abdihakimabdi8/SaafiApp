@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:background="@color/white"
         android:orientation="vertical"
-        android:padding="@dimen/default_horizontal_padding">
+>
         <LinearLayout
             android:id="@+id/titleLinearLayout"
             android:layout_width="fill_parent"

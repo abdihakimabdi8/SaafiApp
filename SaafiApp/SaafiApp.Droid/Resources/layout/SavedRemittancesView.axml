@@ -8,11 +8,11 @@
         android:id="@+id/searchresults_list"
         android:divider="@null"
         android:scrollbars="vertical"
-        android:padding="@dimen/default_horizontal_padding"
+
         android:choiceMode="singleChoice"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_gravity="left|start"
-        local:MvxItemTemplate="@layout/item_saved_journey"
-        local:MvxBind="ItemsSource SavedJourneys" />
+        local:MvxItemTemplate="@layout/item_saved_remittance"
+        local:MvxBind="ItemsSource SavedRemittances" />
 </LinearLayout>
