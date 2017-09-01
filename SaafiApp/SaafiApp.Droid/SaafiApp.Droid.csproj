@@ -264,6 +264,10 @@
     <AndroidResource Include="Resources\values\styles.xml" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\SaafiApp.Localization\SaafiApp.Localization\SaafiApp.Localization.csproj">
+      <Project>{81106573-0be2-4dd1-94cb-3977031fe1fc}</Project>
+      <Name>SaafiApp.Localization</Name>
+    </ProjectReference>
     <ProjectReference Include="..\SaafiApp.Core\SaafiApp.Core.csproj">
       <Project>{f2a402ab-e203-4dcc-91a3-b3a349425f5a}</Project>
       <Name>SaafiApp.Core</Name>

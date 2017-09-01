@@ -39,3 +39,6 @@ C:\Users\habdi\Desktop\SaafiApp\SaafiApp\SaafiApp.Core\bin\Debug\SQLitePCL.raw.d
 C:\Users\habdi\Desktop\SaafiApp\SaafiApp\SaafiApp.Core\bin\Debug\MvvmCross.Plugins.Json.pdb
 C:\Users\habdi\Desktop\SaafiApp\SaafiApp\SaafiApp.Core\bin\Debug\SQLite-net.xml
 C:\Users\habdi\Desktop\SaafiApp\SaafiApp\SaafiApp.Core\obj\Debug\SaafiApp.Core.csprojResolveAssemblyReference.cache
+C:\Users\habdi\Desktop\SaafiApp\SaafiApp\SaafiApp.Core\bin\Debug\SaafiApp.Localization.dll
+C:\Users\habdi\Desktop\SaafiApp\SaafiApp\SaafiApp.Core\bin\Debug\SaafiApp.Localization.pdb
+C:\Users\habdi\Desktop\SaafiApp\SaafiApp\SaafiApp.Core\bin\Debug\nl-BE\SaafiApp.Localization.resources.dll

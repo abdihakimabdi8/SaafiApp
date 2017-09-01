@@ -99,7 +99,12 @@
     <Compile Include="ViewModels\SecondViewModel.cs" />
     <Compile Include="ViewModels\SettingsViewModel.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\..\SaafiApp.Localization\SaafiApp.Localization\SaafiApp.Localization.csproj">
+      <Project>{81106573-0be2-4dd1-94cb-3977031fe1fc}</Project>
+      <Name>SaafiApp.Localization</Name>
+    </ProjectReference>
+  </ItemGroup>
   <ItemGroup>
     <Reference Include="MvvmCross.Binding, Version=5.1.1.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\packages\MvvmCross.Binding.5.1.1\lib\portable-net45+win+wpa81+wp80\MvvmCross.Binding.dll</HintPath>
