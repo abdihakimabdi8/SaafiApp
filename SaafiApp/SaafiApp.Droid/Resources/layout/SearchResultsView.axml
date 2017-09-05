@@ -13,6 +13,6 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_gravity="left|start"
-        local:MvxItemTemplate="@layout/item_journey_search_result"
-        local:MvxBind="ItemsSource Journeys; ItemClick ShowJourneyDetailsCommand" />
+        local:MvxItemTemplate="@layout/item_remittance_search_result"
+        local:MvxBind="ItemsSource Journeys; ItemClick ShowRemittanceDetailsCommand" />
 </LinearLayout>
