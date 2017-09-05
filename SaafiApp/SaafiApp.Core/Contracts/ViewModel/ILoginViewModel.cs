@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SaaSaafiAppfi.Core.Contracts.ViewModel
+namespace SaafiApp.Core.Contracts.ViewModel
 {
     public interface ILoginViewModel
     {

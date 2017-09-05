@@ -112,9 +112,6 @@
     <Reference Include="MvvmCross.Plugins.File.Droid, Version=5.1.1.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\packages\MvvmCross.Plugin.File.5.1.1\lib\MonoAndroid\MvvmCross.Plugins.File.Droid.dll</HintPath>
     </Reference>
-    <Reference Include="MvvmCross.Plugins.Json, Version=5.0.1.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\MvvmCross.Plugin.Json.5.0.1\lib\MonoAndroid\MvvmCross.Plugins.Json.dll</HintPath>
-    </Reference>
     <Reference Include="MvvmCross.Plugins.Messenger, Version=5.0.1.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\packages\MvvmCross.Plugin.Messenger.5.0.1\lib\MonoAndroid\MvvmCross.Plugins.Messenger.dll</HintPath>
     </Reference>
@@ -189,19 +186,15 @@
   <ItemGroup>
     <Compile Include="Activities\MainActivity.cs" />
     <Compile Include="Bootstrap\FilePluginBootstrap.cs" />
-    <Compile Include="Bootstrap\JsonPluginBootstrap.cs" />
     <Compile Include="Bootstrap\MessengerPluginBootstrap.cs" />
     <Compile Include="Bootstrap\SqlitePluginBootstrap.cs" />
     <Compile Include="Bootstrap\WebBrowserPluginBootstrap.cs" />
     <Compile Include="DebugTrace.cs" />
     <Compile Include="Extensions\ActivityExtensions.cs" />
     <Compile Include="Extensions\MonoTypeExtensions.cs" />
-    <Compile Include="Linker\LinkerPleaseInclude.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Services\DialogService.cs" />
     <Compile Include="SplashScreen.cs" />
-    <Compile Include="SQLite.cs" />
-    <Compile Include="SQLiteAsync.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Setup.cs" />
     <Compile Include="Views\MenuFragment.cs" />
@@ -254,7 +247,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Assets\" />
-    <Folder Include="Resources\anim\" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\values\colors.xml" />

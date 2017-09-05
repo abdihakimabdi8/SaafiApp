@@ -75,9 +75,9 @@ namespace SaafiApp.Core.ViewModels
             _userDataService = userDataService;
         }
 
-        public void Init(int journeyId)
+        public void Init(int remittanceId)
         {
-            _remittanceId = journeyId;
+            _remittanceId = remittanceId;
         }
 
         public override async void Start()

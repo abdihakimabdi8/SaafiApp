@@ -32,7 +32,7 @@ namespace SaafiApp.Core.ViewModels
 
             MenuItems.Add(new MenuItem
             {
-                Title = "My Saved Journeys",
+                Title = "My Saved Remittances",
                 ViewModelType = typeof(SavedRemittancesViewModel),
                 Option = MenuOption.SavedRemittances,
                 IsSelected = false

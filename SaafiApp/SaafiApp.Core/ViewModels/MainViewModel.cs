@@ -2,7 +2,6 @@
 using MvvmCross.Core.ViewModels;
 using MvvmCross.Platform;
 using SaafiApp.Core.Contracts.ViewModel;
-using SaafiApp.Core.Contracts.Services;
 
 namespace SaafiApp.Core.ViewModels
 {
@@ -15,7 +14,7 @@ namespace SaafiApp.Core.ViewModels
 
         public SearchRemittanceViewModel SearchRemittanceViewModel => _searchRemittanceViewModel.Value;
 
-        public SavedRemittancesViewModel SavedJourneysViewModel => _savedRemittancesViewModel.Value;
+        public SavedRemittancesViewModel SavedRemittancesViewModel => _savedRemittancesViewModel.Value;
 
         public SettingsViewModel SettingsViewModel => _settingsViewModel.Value;
 

@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package android.support.coreutils;
+package saafiapp.droid.saafiapp.droid;
 
 public final class R {
     public static final class anim {
@@ -2998,199 +2998,197 @@ containing a value of this type.
         public static final int toolbar_dropshadow=0x7f020077;
     }
     public static final class id {
-        public static final int AddToCartButton=0x7f0800b6;
-        public static final int CloseButton=0x7f0800b7;
-        public static final int CurrenciesSpinner=0x7f0800ba;
-        public static final int DepartureDateTextView=0x7f080088;
-        public static final int DepartureDateTextViewValue=0x7f0800ae;
-        public static final int DepartureDateTitleTextView=0x7f080087;
-        public static final int DepartureTimeTextView=0x7f08008b;
-        public static final int FromCityTextView=0x7f08008a;
-        public static final int FromCityTitleTextView=0x7f0800af;
-        public static final int MvvmCrossTagId=0x7f080010;
-        public static final int MvxBindingTagUnique=0x7f080011;
-        public static final int NumberOfTicketsEditText=0x7f0800b5;
-        public static final int NumberOfTicketsTextViewLabel=0x7f080090;
-        public static final int NumberOfTicketsView=0x7f0800b4;
-        public static final int PriceTextView=0x7f08008f;
-        public static final int PriceTitleTextView=0x7f0800b2;
-        public static final int ToCityTitleTextView=0x7f0800b0;
-        public static final int WebButton=0x7f0800bc;
-        public static final int action0=0x7f08009a;
-        public static final int action_bar=0x7f080067;
+        public static final int AddToCartButton=0x7f0800b4;
+        public static final int CloseButton=0x7f0800b5;
+        public static final int CurrenciesSpinner=0x7f0800b8;
+        public static final int DepartureDateTextView=0x7f080086;
+        public static final int DepartureDateTextViewValue=0x7f0800ac;
+        public static final int DepartureDateTitleTextView=0x7f080085;
+        public static final int DepartureTimeTextView=0x7f080089;
+        public static final int FromCityTextView=0x7f080088;
+        public static final int FromCityTitleTextView=0x7f0800ad;
+        public static final int MvvmCrossTagId=0x7f08000e;
+        public static final int MvxBindingTagUnique=0x7f08000f;
+        public static final int NumberOfTicketsEditText=0x7f0800b3;
+        public static final int NumberOfTicketsTextViewLabel=0x7f08008e;
+        public static final int NumberOfTicketsView=0x7f0800b2;
+        public static final int PriceTextView=0x7f08008d;
+        public static final int PriceTitleTextView=0x7f0800b0;
+        public static final int ToCityTitleTextView=0x7f0800ae;
+        public static final int WebButton=0x7f0800ba;
+        public static final int action0=0x7f080098;
+        public static final int action_bar=0x7f080065;
         public static final int action_bar_activity_content=0x7f080001;
-        public static final int action_bar_container=0x7f080066;
-        public static final int action_bar_root=0x7f080062;
+        public static final int action_bar_container=0x7f080064;
+        public static final int action_bar_root=0x7f080060;
         public static final int action_bar_spinner=0x7f080002;
-        public static final int action_bar_subtitle=0x7f080045;
-        public static final int action_bar_title=0x7f080044;
-        public static final int action_container=0x7f080097;
-        public static final int action_context_bar=0x7f080068;
-        public static final int action_divider=0x7f08009e;
-        public static final int action_image=0x7f080098;
+        public static final int action_bar_subtitle=0x7f080043;
+        public static final int action_bar_title=0x7f080042;
+        public static final int action_container=0x7f080095;
+        public static final int action_context_bar=0x7f080066;
+        public static final int action_divider=0x7f08009c;
+        public static final int action_image=0x7f080096;
         public static final int action_menu_divider=0x7f080003;
         public static final int action_menu_presenter=0x7f080004;
-        public static final int action_mode_bar=0x7f080064;
-        public static final int action_mode_bar_stub=0x7f080063;
-        public static final int action_mode_close_button=0x7f080046;
-        public static final int action_text=0x7f080099;
-        public static final int actions=0x7f0800a7;
-        public static final int activity_chooser_view_content=0x7f080047;
-        public static final int add=0x7f080021;
-        public static final int alertTitle=0x7f08005b;
-        public static final int all=0x7f080040;
-        public static final int always=0x7f080026;
-        public static final int arrivalLinearLayout=0x7f08008c;
-        public static final int arrivalTimeTextView=0x7f08008e;
-        public static final int auto=0x7f080032;
-        public static final int beginning=0x7f080023;
-        public static final int bottom=0x7f08002b;
-        public static final int buttonPanel=0x7f08004e;
-        public static final int calendar_grid=0x7f080096;
-        public static final int cancel_action=0x7f08009b;
-        public static final int center=0x7f080033;
-        public static final int center_horizontal=0x7f080034;
-        public static final int center_vertical=0x7f080035;
-        public static final int checkbox=0x7f08005e;
-        public static final int chronometer=0x7f0800a3;
-        public static final int clip_horizontal=0x7f08003c;
-        public static final int clip_vertical=0x7f08003d;
-        public static final int collapseActionView=0x7f080027;
-        public static final int container=0x7f080078;
-        public static final int contentPanel=0x7f080051;
-        public static final int content_frame=0x7f080092;
-        public static final int coordinator=0x7f080079;
-        public static final int coordinator_layout=0x7f080091;
-        public static final int custom=0x7f080058;
-        public static final int customPanel=0x7f080057;
-        public static final int day_view_adapter_class=0x7f08000f;
-        public static final int decor_content_parent=0x7f080065;
-        public static final int default_activity_button=0x7f08004a;
-        public static final int departureLinearLayout=0x7f080089;
-        public static final int design_bottom_sheet=0x7f08007b;
-        public static final int design_menu_item_action_area=0x7f080082;
-        public static final int design_menu_item_action_area_stub=0x7f080081;
-        public static final int design_menu_item_text=0x7f080080;
-        public static final int design_navigation_view=0x7f08007f;
-        public static final int disableHome=0x7f080015;
-        public static final int drawer_layout=0x7f080093;
-        public static final int edit_query=0x7f080069;
-        public static final int end=0x7f080024;
-        public static final int end_padder=0x7f0800ad;
-        public static final int enterAlways=0x7f08002d;
-        public static final int enterAlwaysCollapsed=0x7f08002e;
-        public static final int exitUntilCollapsed=0x7f08002f;
-        public static final int expand_activities_button=0x7f080048;
-        public static final int expanded_menu=0x7f08005d;
-        public static final int fill=0x7f08003e;
-        public static final int fill_horizontal=0x7f08003f;
-        public static final int fill_vertical=0x7f080036;
-        public static final int fixed=0x7f080042;
+        public static final int action_mode_bar=0x7f080062;
+        public static final int action_mode_bar_stub=0x7f080061;
+        public static final int action_mode_close_button=0x7f080044;
+        public static final int action_text=0x7f080097;
+        public static final int actions=0x7f0800a5;
+        public static final int activity_chooser_view_content=0x7f080045;
+        public static final int add=0x7f08001f;
+        public static final int alertTitle=0x7f080059;
+        public static final int all=0x7f08003e;
+        public static final int always=0x7f080024;
+        public static final int arrivalLinearLayout=0x7f08008a;
+        public static final int arrivalTimeTextView=0x7f08008c;
+        public static final int auto=0x7f080030;
+        public static final int beginning=0x7f080021;
+        public static final int bottom=0x7f080029;
+        public static final int buttonPanel=0x7f08004c;
+        public static final int calendar_grid=0x7f080094;
+        public static final int cancel_action=0x7f080099;
+        public static final int center=0x7f080031;
+        public static final int center_horizontal=0x7f080032;
+        public static final int center_vertical=0x7f080033;
+        public static final int checkbox=0x7f08005c;
+        public static final int chronometer=0x7f0800a1;
+        public static final int clip_horizontal=0x7f08003a;
+        public static final int clip_vertical=0x7f08003b;
+        public static final int collapseActionView=0x7f080025;
+        public static final int container=0x7f080076;
+        public static final int contentPanel=0x7f08004f;
+        public static final int content_frame=0x7f080090;
+        public static final int coordinator=0x7f080077;
+        public static final int coordinator_layout=0x7f08008f;
+        public static final int custom=0x7f080056;
+        public static final int customPanel=0x7f080055;
+        public static final int day_view_adapter_class=0x7f08000d;
+        public static final int decor_content_parent=0x7f080063;
+        public static final int default_activity_button=0x7f080048;
+        public static final int departureLinearLayout=0x7f080087;
+        public static final int design_bottom_sheet=0x7f080079;
+        public static final int design_menu_item_action_area=0x7f080080;
+        public static final int design_menu_item_action_area_stub=0x7f08007f;
+        public static final int design_menu_item_text=0x7f08007e;
+        public static final int design_navigation_view=0x7f08007d;
+        public static final int disableHome=0x7f080013;
+        public static final int drawer_layout=0x7f080091;
+        public static final int edit_query=0x7f080067;
+        public static final int end=0x7f080022;
+        public static final int end_padder=0x7f0800ab;
+        public static final int enterAlways=0x7f08002b;
+        public static final int enterAlwaysCollapsed=0x7f08002c;
+        public static final int exitUntilCollapsed=0x7f08002d;
+        public static final int expand_activities_button=0x7f080046;
+        public static final int expanded_menu=0x7f08005b;
+        public static final int fill=0x7f08003c;
+        public static final int fill_horizontal=0x7f08003d;
+        public static final int fill_vertical=0x7f080034;
+        public static final int fixed=0x7f080040;
         public static final int home=0x7f080005;
-        public static final int homeAsUp=0x7f080016;
-        public static final int icon=0x7f08004c;
-        public static final int icon_group=0x7f0800a8;
-        public static final int ifRoom=0x7f080028;
-        public static final int image=0x7f080049;
-        public static final int info=0x7f0800a4;
+        public static final int homeAsUp=0x7f080014;
+        public static final int icon=0x7f08004a;
+        public static final int icon_group=0x7f0800a6;
+        public static final int ifRoom=0x7f080026;
+        public static final int image=0x7f080047;
+        public static final int info=0x7f0800a2;
         public static final int item_touch_helper_previous_elevation=0x7f080000;
-        public static final int largeLabel=0x7f080077;
-        public static final int left=0x7f080037;
-        public static final int left_drawer=0x7f080095;
-        public static final int line1=0x7f0800a9;
-        public static final int line3=0x7f0800ab;
-        public static final int listMode=0x7f080012;
-        public static final int list_item=0x7f08004b;
-        public static final int mainLinearLayout=0x7f080085;
-        public static final int masked=0x7f0800c0;
-        public static final int media_actions=0x7f08009d;
-        public static final int middle=0x7f080025;
-        public static final int mini=0x7f080041;
-        public static final int multiply=0x7f08001c;
-        public static final int navigation_drawer_list=0x7f080084;
-        public static final int navigation_header_container=0x7f08007e;
-        public static final int never=0x7f080029;
-        public static final int none=0x7f080017;
-        public static final int normal=0x7f080013;
-        public static final int notification_background=0x7f0800a6;
-        public static final int notification_main_column=0x7f0800a0;
-        public static final int notification_main_column_container=0x7f08009f;
-        public static final int parallax=0x7f08003a;
-        public static final int parentPanel=0x7f080050;
-        public static final int pin=0x7f08003b;
-        public static final int priceLinearLayout=0x7f0800b1;
+        public static final int largeLabel=0x7f080075;
+        public static final int left=0x7f080035;
+        public static final int left_drawer=0x7f080093;
+        public static final int line1=0x7f0800a7;
+        public static final int line3=0x7f0800a9;
+        public static final int listMode=0x7f080010;
+        public static final int list_item=0x7f080049;
+        public static final int mainLinearLayout=0x7f080083;
+        public static final int masked=0x7f0800be;
+        public static final int media_actions=0x7f08009b;
+        public static final int middle=0x7f080023;
+        public static final int mini=0x7f08003f;
+        public static final int multiply=0x7f08001a;
+        public static final int navigation_drawer_list=0x7f080082;
+        public static final int navigation_header_container=0x7f08007c;
+        public static final int never=0x7f080027;
+        public static final int none=0x7f080015;
+        public static final int normal=0x7f080011;
+        public static final int notification_background=0x7f0800a4;
+        public static final int notification_main_column=0x7f08009e;
+        public static final int notification_main_column_container=0x7f08009d;
+        public static final int parallax=0x7f080038;
+        public static final int parentPanel=0x7f08004e;
+        public static final int pin=0x7f080039;
+        public static final int priceLinearLayout=0x7f0800af;
         public static final int progress_circular=0x7f080006;
         public static final int progress_horizontal=0x7f080007;
-        public static final int radio=0x7f080060;
-        public static final int right=0x7f080038;
-        public static final int right_icon=0x7f0800a5;
-        public static final int right_side=0x7f0800a1;
-        public static final int screen=0x7f08001d;
-        public static final int scroll=0x7f080030;
-        public static final int scrollIndicatorDown=0x7f080056;
-        public static final int scrollIndicatorUp=0x7f080052;
-        public static final int scrollView=0x7f080053;
-        public static final int scrollable=0x7f080043;
-        public static final int search_badge=0x7f08006b;
-        public static final int search_bar=0x7f08006a;
-        public static final int search_button=0x7f08006c;
-        public static final int search_close_btn=0x7f080071;
-        public static final int search_edit_frame=0x7f08006d;
-        public static final int search_go_btn=0x7f080073;
-        public static final int search_mag_icon=0x7f08006e;
-        public static final int search_plate=0x7f08006f;
-        public static final int search_src_text=0x7f080070;
-        public static final int search_voice_btn=0x7f080074;
-        public static final int searchresults_list=0x7f0800b8;
-        public static final int select_dialog_listview=0x7f080075;
-        public static final int shortcut=0x7f08005f;
-        public static final int showCustom=0x7f080018;
-        public static final int showHome=0x7f080019;
-        public static final int showTitle=0x7f08001a;
-        public static final int smallLabel=0x7f080076;
-        public static final int snackbar_action=0x7f08007d;
-        public static final int snackbar_text=0x7f08007c;
-        public static final int snap=0x7f080031;
-        public static final int spacer=0x7f08004f;
+        public static final int radio=0x7f08005e;
+        public static final int right=0x7f080036;
+        public static final int right_icon=0x7f0800a3;
+        public static final int right_side=0x7f08009f;
+        public static final int screen=0x7f08001b;
+        public static final int scroll=0x7f08002e;
+        public static final int scrollIndicatorDown=0x7f080054;
+        public static final int scrollIndicatorUp=0x7f080050;
+        public static final int scrollView=0x7f080051;
+        public static final int scrollable=0x7f080041;
+        public static final int search_badge=0x7f080069;
+        public static final int search_bar=0x7f080068;
+        public static final int search_button=0x7f08006a;
+        public static final int search_close_btn=0x7f08006f;
+        public static final int search_edit_frame=0x7f08006b;
+        public static final int search_go_btn=0x7f080071;
+        public static final int search_mag_icon=0x7f08006c;
+        public static final int search_plate=0x7f08006d;
+        public static final int search_src_text=0x7f08006e;
+        public static final int search_voice_btn=0x7f080072;
+        public static final int searchresults_list=0x7f0800b6;
+        public static final int select_dialog_listview=0x7f080073;
+        public static final int shortcut=0x7f08005d;
+        public static final int showCustom=0x7f080016;
+        public static final int showHome=0x7f080017;
+        public static final int showTitle=0x7f080018;
+        public static final int smallLabel=0x7f080074;
+        public static final int snackbar_action=0x7f08007b;
+        public static final int snackbar_text=0x7f08007a;
+        public static final int snap=0x7f08002f;
+        public static final int spacer=0x7f08004d;
         public static final int split_action_bar=0x7f080008;
-        public static final int src_atop=0x7f08001e;
-        public static final int src_in=0x7f08001f;
-        public static final int src_over=0x7f080020;
-        public static final int start=0x7f080039;
-        public static final int status_bar_latest_event_content=0x7f08009c;
-        public static final int submenuarrow=0x7f080061;
-        public static final int submit_area=0x7f080072;
-        public static final int tabMode=0x7f080014;
-        public static final int text=0x7f0800ac;
-        public static final int text2=0x7f0800aa;
-        public static final int textSpacerNoButtons=0x7f080055;
-        public static final int textSpacerNoTitle=0x7f080054;
-        public static final int textView1=0x7f0800b9;
-        public static final int textView2=0x7f0800bb;
-        public static final int text_input_password_toggle=0x7f080083;
-        public static final int textinput_counter=0x7f08000c;
-        public static final int textinput_error=0x7f08000d;
-        public static final int ticketsLinearLayout=0x7f0800b3;
-        public static final int time=0x7f0800a2;
-        public static final int title=0x7f08004d;
-        public static final int titleDividerNoCustom=0x7f08005c;
-        public static final int titleLinearLayout=0x7f080086;
-        public static final int title_template=0x7f08005a;
-        public static final int toCityTextView=0x7f08008d;
-        public static final int toolbar=0x7f080094;
-        public static final int toolbar_shadow=0x7f0800be;
-        public static final int toolbar_title=0x7f0800bd;
-        public static final int top=0x7f08002c;
-        public static final int topPanel=0x7f080059;
-        public static final int touch_outside=0x7f08007a;
-        public static final int transition_current_scene=0x7f08000a;
-        public static final int transition_scene_layoutid_cache=0x7f08000b;
+        public static final int src_atop=0x7f08001c;
+        public static final int src_in=0x7f08001d;
+        public static final int src_over=0x7f08001e;
+        public static final int start=0x7f080037;
+        public static final int status_bar_latest_event_content=0x7f08009a;
+        public static final int submenuarrow=0x7f08005f;
+        public static final int submit_area=0x7f080070;
+        public static final int tabMode=0x7f080012;
+        public static final int text=0x7f0800aa;
+        public static final int text2=0x7f0800a8;
+        public static final int textSpacerNoButtons=0x7f080053;
+        public static final int textSpacerNoTitle=0x7f080052;
+        public static final int textView1=0x7f0800b7;
+        public static final int textView2=0x7f0800b9;
+        public static final int text_input_password_toggle=0x7f080081;
+        public static final int textinput_counter=0x7f08000a;
+        public static final int textinput_error=0x7f08000b;
+        public static final int ticketsLinearLayout=0x7f0800b1;
+        public static final int time=0x7f0800a0;
+        public static final int title=0x7f08004b;
+        public static final int titleDividerNoCustom=0x7f08005a;
+        public static final int titleLinearLayout=0x7f080084;
+        public static final int title_template=0x7f080058;
+        public static final int toCityTextView=0x7f08008b;
+        public static final int toolbar=0x7f080092;
+        public static final int toolbar_shadow=0x7f0800bc;
+        public static final int toolbar_title=0x7f0800bb;
+        public static final int top=0x7f08002a;
+        public static final int topPanel=0x7f080057;
+        public static final int touch_outside=0x7f080078;
         public static final int up=0x7f080009;
-        public static final int useLogo=0x7f08001b;
-        public static final int view_offset_helper=0x7f08000e;
-        public static final int visible=0x7f0800bf;
-        public static final int withText=0x7f08002a;
-        public static final int wrap_content=0x7f080022;
+        public static final int useLogo=0x7f080019;
+        public static final int view_offset_helper=0x7f08000c;
+        public static final int visible=0x7f0800bd;
+        public static final int withText=0x7f080028;
+        public static final int wrap_content=0x7f080020;
     }
     public static final class integer {
         public static final int abc_config_activityDefaultDur=0x7f0d0000;
@@ -3735,35 +3733,35 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background SaafiApp.SaafiApp:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit SaafiApp.SaafiApp:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked SaafiApp.SaafiApp:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd SaafiApp.SaafiApp:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions SaafiApp.SaafiApp:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft SaafiApp.SaafiApp:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight SaafiApp.SaafiApp:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart SaafiApp.SaafiApp:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation SaafiApp.SaafiApp:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout SaafiApp.SaafiApp:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions SaafiApp.SaafiApp:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider SaafiApp.SaafiApp:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation SaafiApp.SaafiApp:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height SaafiApp.SaafiApp:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll SaafiApp.SaafiApp:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator SaafiApp.SaafiApp:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout SaafiApp.SaafiApp:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon SaafiApp.SaafiApp:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle SaafiApp.SaafiApp:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding SaafiApp.SaafiApp:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo SaafiApp.SaafiApp:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode SaafiApp.SaafiApp:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme SaafiApp.SaafiApp:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding SaafiApp.SaafiApp:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle SaafiApp.SaafiApp:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle SaafiApp.SaafiApp:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle SaafiApp.SaafiApp:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title SaafiApp.SaafiApp:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle SaafiApp.SaafiApp:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background SaafiApp.Droid.SaafiApp.Droid:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit SaafiApp.Droid.SaafiApp.Droid:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked SaafiApp.Droid.SaafiApp.Droid:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd SaafiApp.Droid.SaafiApp.Droid:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions SaafiApp.Droid.SaafiApp.Droid:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft SaafiApp.Droid.SaafiApp.Droid:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight SaafiApp.Droid.SaafiApp.Droid:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart SaafiApp.Droid.SaafiApp.Droid:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation SaafiApp.Droid.SaafiApp.Droid:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout SaafiApp.Droid.SaafiApp.Droid:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions SaafiApp.Droid.SaafiApp.Droid:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider SaafiApp.Droid.SaafiApp.Droid:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation SaafiApp.Droid.SaafiApp.Droid:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height SaafiApp.Droid.SaafiApp.Droid:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll SaafiApp.Droid.SaafiApp.Droid:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator SaafiApp.Droid.SaafiApp.Droid:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout SaafiApp.Droid.SaafiApp.Droid:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon SaafiApp.Droid.SaafiApp.Droid:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle SaafiApp.Droid.SaafiApp.Droid:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding SaafiApp.Droid.SaafiApp.Droid:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo SaafiApp.Droid.SaafiApp.Droid:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode SaafiApp.Droid.SaafiApp.Droid:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme SaafiApp.Droid.SaafiApp.Droid:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding SaafiApp.Droid.SaafiApp.Droid:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle SaafiApp.Droid.SaafiApp.Droid:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle SaafiApp.Droid.SaafiApp.Droid:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle SaafiApp.Droid.SaafiApp.Droid:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title SaafiApp.Droid.SaafiApp.Droid:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle SaafiApp.Droid.SaafiApp.Droid:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -3806,17 +3804,17 @@ containing a value of this type.
             0x7f01006c
         };
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#background}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:background
+          @attr name SaafiApp.Droid.SaafiApp.Droid:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3824,11 +3822,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name SaafiApp.SaafiApp:backgroundSplit
+          @attr name SaafiApp.Droid.SaafiApp.Droid:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3836,11 +3834,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name SaafiApp.SaafiApp:backgroundStacked
+          @attr name SaafiApp.Droid.SaafiApp.Droid:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3852,11 +3850,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:contentInsetEnd
+          @attr name SaafiApp.Droid.SaafiApp.Droid:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3868,11 +3866,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:contentInsetEndWithActions
+          @attr name SaafiApp.Droid.SaafiApp.Droid:contentInsetEndWithActions
         */
         public static final int ActionBar_contentInsetEndWithActions = 25;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3884,11 +3882,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:contentInsetLeft
+          @attr name SaafiApp.Droid.SaafiApp.Droid:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3900,11 +3898,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:contentInsetRight
+          @attr name SaafiApp.Droid.SaafiApp.Droid:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3916,11 +3914,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:contentInsetStart
+          @attr name SaafiApp.Droid.SaafiApp.Droid:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3932,21 +3930,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:contentInsetStartWithNavigation
+          @attr name SaafiApp.Droid.SaafiApp.Droid:contentInsetStartWithNavigation
         */
         public static final int ActionBar_contentInsetStartWithNavigation = 24;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:customNavigationLayout
+          @attr name SaafiApp.Droid.SaafiApp.Droid:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3964,21 +3962,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name SaafiApp.SaafiApp:displayOptions
+          @attr name SaafiApp.Droid.SaafiApp.Droid:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#divider}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:divider
+          @attr name SaafiApp.Droid.SaafiApp.Droid:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#elevation}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3990,11 +3988,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:elevation
+          @attr name SaafiApp.Droid.SaafiApp.Droid:elevation
         */
         public static final int ActionBar_elevation = 26;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#height}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4006,11 +4004,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:height
+          @attr name SaafiApp.Droid.SaafiApp.Droid:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4020,51 +4018,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:hideOnContentScroll
+          @attr name SaafiApp.Droid.SaafiApp.Droid:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:homeAsUpIndicator
+          @attr name SaafiApp.Droid.SaafiApp.Droid:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 28;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:homeLayout
+          @attr name SaafiApp.Droid.SaafiApp.Droid:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#icon}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:icon
+          @attr name SaafiApp.Droid.SaafiApp.Droid:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:indeterminateProgressStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4076,21 +4074,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:itemPadding
+          @attr name SaafiApp.Droid.SaafiApp.Droid:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#logo}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:logo
+          @attr name SaafiApp.Droid.SaafiApp.Droid:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4104,21 +4102,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name SaafiApp.SaafiApp:navigationMode
+          @attr name SaafiApp.Droid.SaafiApp.Droid:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:popupTheme
+          @attr name SaafiApp.Droid.SaafiApp.Droid:popupTheme
         */
         public static final int ActionBar_popupTheme = 27;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4130,21 +4128,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:progressBarPadding
+          @attr name SaafiApp.Droid.SaafiApp.Droid:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:progressBarStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4154,21 +4152,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:subtitle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:subtitleTextStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#title}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4178,17 +4176,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:title
+          @attr name SaafiApp.Droid.SaafiApp.Droid:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:titleTextStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -4240,12 +4238,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background SaafiApp.SaafiApp:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit SaafiApp.SaafiApp:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout SaafiApp.SaafiApp:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height SaafiApp.SaafiApp:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle SaafiApp.SaafiApp:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle SaafiApp.SaafiApp:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background SaafiApp.Droid.SaafiApp.Droid:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit SaafiApp.Droid.SaafiApp.Droid:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout SaafiApp.Droid.SaafiApp.Droid:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height SaafiApp.Droid.SaafiApp.Droid:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle SaafiApp.Droid.SaafiApp.Droid:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle SaafiApp.Droid.SaafiApp.Droid:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -4259,17 +4257,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01001d, 0x7f01002d
         };
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#background}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:background
+          @attr name SaafiApp.Droid.SaafiApp.Droid:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -4277,21 +4275,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name SaafiApp.SaafiApp:backgroundSplit
+          @attr name SaafiApp.Droid.SaafiApp.Droid:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:closeItemLayout
+          @attr name SaafiApp.Droid.SaafiApp.Droid:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#height}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -4303,27 +4301,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:height
+          @attr name SaafiApp.Droid.SaafiApp.Droid:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:subtitleTextStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:titleTextStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -4332,8 +4330,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable SaafiApp.SaafiApp:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount SaafiApp.SaafiApp:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable SaafiApp.Droid.SaafiApp.Droid:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount SaafiApp.Droid.SaafiApp.Droid:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -4342,17 +4340,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01002e, 0x7f01002f
         };
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:expandActivityOverflowButtonDrawable
+          @attr name SaafiApp.Droid.SaafiApp.Droid:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -4362,7 +4360,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:initialActivityCount
+          @attr name SaafiApp.Droid.SaafiApp.Droid:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AlertDialog.
@@ -4372,12 +4370,12 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout SaafiApp.SaafiApp:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout SaafiApp.SaafiApp:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout SaafiApp.SaafiApp:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout SaafiApp.SaafiApp:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_showTitle SaafiApp.SaafiApp:showTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout SaafiApp.SaafiApp:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout SaafiApp.Droid.SaafiApp.Droid:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout SaafiApp.Droid.SaafiApp.Droid:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout SaafiApp.Droid.SaafiApp.Droid:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout SaafiApp.Droid.SaafiApp.Droid:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_showTitle SaafiApp.Droid.SaafiApp.Droid:showTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout SaafiApp.Droid.SaafiApp.Droid:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -4398,47 +4396,47 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:buttonPanelSideLayout
+          @attr name SaafiApp.Droid.SaafiApp.Droid:buttonPanelSideLayout
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:listItemLayout
+          @attr name SaafiApp.Droid.SaafiApp.Droid:listItemLayout
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:listLayout
+          @attr name SaafiApp.Droid.SaafiApp.Droid:listLayout
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:multiChoiceItemLayout
+          @attr name SaafiApp.Droid.SaafiApp.Droid:multiChoiceItemLayout
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#showTitle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#showTitle}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
@@ -4448,17 +4446,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:showTitle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:showTitle
         */
         public static final int AlertDialog_showTitle = 6;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:singleChoiceItemLayout
+          @attr name SaafiApp.Droid.SaafiApp.Droid:singleChoiceItemLayout
         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppBarLayout.
@@ -4468,8 +4466,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_elevation SaafiApp.SaafiApp:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_expanded SaafiApp.SaafiApp:expanded}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_elevation SaafiApp.Droid.SaafiApp.Droid:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_expanded SaafiApp.Droid.SaafiApp.Droid:expanded}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_android_background
            @see #AppBarLayout_elevation
@@ -4485,7 +4483,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppBarLayout_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#elevation}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#elevation}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -4497,11 +4495,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:elevation
+          @attr name SaafiApp.Droid.SaafiApp.Droid:elevation
         */
         public static final int AppBarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#expanded}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#expanded}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -4511,7 +4509,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:expanded
+          @attr name SaafiApp.Droid.SaafiApp.Droid:expanded
         */
         public static final int AppBarLayout_expanded = 2;
         /** Attributes that can be used with a AppBarLayoutStates.
@@ -4520,8 +4518,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed SaafiApp.SaafiApp:state_collapsed}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible SaafiApp.SaafiApp:state_collapsible}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed SaafiApp.Droid.SaafiApp.Droid:state_collapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible SaafiApp.Droid.SaafiApp.Droid:state_collapsible}</code></td><td></td></tr>
            </table>
            @see #AppBarLayoutStates_state_collapsed
            @see #AppBarLayoutStates_state_collapsible
@@ -4530,7 +4528,7 @@ containing a value of this type.
             0x7f0100f7, 0x7f0100f8
         };
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#state_collapsed}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#state_collapsed}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -4540,11 +4538,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:state_collapsed
+          @attr name SaafiApp.Droid.SaafiApp.Droid:state_collapsed
         */
         public static final int AppBarLayoutStates_state_collapsed = 0;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#state_collapsible}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#state_collapsible}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -4554,7 +4552,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:state_collapsible
+          @attr name SaafiApp.Droid.SaafiApp.Droid:state_collapsible
         */
         public static final int AppBarLayoutStates_state_collapsible = 1;
         /** Attributes that can be used with a AppBarLayout_Layout.
@@ -4563,8 +4561,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags SaafiApp.SaafiApp:layout_scrollFlags}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator SaafiApp.SaafiApp:layout_scrollInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags SaafiApp.Droid.SaafiApp.Droid:layout_scrollFlags}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator SaafiApp.Droid.SaafiApp.Droid:layout_scrollInterpolator}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_Layout_layout_scrollFlags
            @see #AppBarLayout_Layout_layout_scrollInterpolator
@@ -4573,7 +4571,7 @@ containing a value of this type.
             0x7f0100f9, 0x7f0100fa
         };
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#layout_scrollFlags}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#layout_scrollFlags}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
@@ -4589,17 +4587,17 @@ containing a value of this type.
 <tr><td><code>enterAlwaysCollapsed</code></td><td>0x8</td><td></td></tr>
 <tr><td><code>snap</code></td><td>0x10</td><td></td></tr>
 </table>
-          @attr name SaafiApp.SaafiApp:layout_scrollFlags
+          @attr name SaafiApp.Droid.SaafiApp.Droid:layout_scrollFlags
         */
         public static final int AppBarLayout_Layout_layout_scrollFlags = 0;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#layout_scrollInterpolator}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#layout_scrollInterpolator}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:layout_scrollInterpolator
+          @attr name SaafiApp.Droid.SaafiApp.Droid:layout_scrollInterpolator
         */
         public static final int AppBarLayout_Layout_layout_scrollInterpolator = 1;
         /** Attributes that can be used with a AppCompatImageView.
@@ -4609,9 +4607,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_srcCompat SaafiApp.SaafiApp:srcCompat}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_tint SaafiApp.SaafiApp:tint}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_tintMode SaafiApp.SaafiApp:tintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_srcCompat SaafiApp.Droid.SaafiApp.Droid:srcCompat}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_tint SaafiApp.Droid.SaafiApp.Droid:tint}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_tintMode SaafiApp.Droid.SaafiApp.Droid:tintMode}</code></td><td></td></tr>
            </table>
            @see #AppCompatImageView_android_src
            @see #AppCompatImageView_srcCompat
@@ -4628,17 +4626,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatImageView_android_src = 0;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#srcCompat}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#srcCompat}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:srcCompat
+          @attr name SaafiApp.Droid.SaafiApp.Droid:srcCompat
         */
         public static final int AppCompatImageView_srcCompat = 1;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#tint}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#tint}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
@@ -4649,11 +4647,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:tint
+          @attr name SaafiApp.Droid.SaafiApp.Droid:tint
         */
         public static final int AppCompatImageView_tint = 2;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#tintMode}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#tintMode}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
@@ -4669,7 +4667,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name SaafiApp.SaafiApp:tintMode
+          @attr name SaafiApp.Droid.SaafiApp.Droid:tintMode
         */
         public static final int AppCompatImageView_tintMode = 3;
         /** Attributes that can be used with a AppCompatSeekBar.
@@ -4679,9 +4677,9 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMark SaafiApp.SaafiApp:tickMark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint SaafiApp.SaafiApp:tickMarkTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode SaafiApp.SaafiApp:tickMarkTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMark SaafiApp.Droid.SaafiApp.Droid:tickMark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint SaafiApp.Droid.SaafiApp.Droid:tickMarkTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode SaafiApp.Droid.SaafiApp.Droid:tickMarkTintMode}</code></td><td></td></tr>
            </table>
            @see #AppCompatSeekBar_android_thumb
            @see #AppCompatSeekBar_tickMark
@@ -4698,17 +4696,17 @@ containing a value of this type.
         */
         public static final int AppCompatSeekBar_android_thumb = 0;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#tickMark}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#tickMark}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:tickMark
+          @attr name SaafiApp.Droid.SaafiApp.Droid:tickMark
         */
         public static final int AppCompatSeekBar_tickMark = 1;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#tickMarkTint}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#tickMarkTint}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -4719,11 +4717,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:tickMarkTint
+          @attr name SaafiApp.Droid.SaafiApp.Droid:tickMarkTint
         */
         public static final int AppCompatSeekBar_tickMarkTint = 2;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#tickMarkTintMode}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#tickMarkTintMode}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -4740,7 +4738,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name SaafiApp.SaafiApp:tickMarkTintMode
+          @attr name SaafiApp.Droid.SaafiApp.Droid:tickMarkTintMode
         */
         public static final int AppCompatSeekBar_tickMarkTintMode = 3;
         /** Attributes that can be used with a AppCompatTextHelper.
@@ -4818,7 +4816,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps SaafiApp.SaafiApp:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps SaafiApp.Droid.SaafiApp.Droid:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_textAllCaps
@@ -4833,14 +4831,14 @@ containing a value of this type.
         */
         public static final int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name SaafiApp.SaafiApp:textAllCaps
+          @attr name SaafiApp.Droid.SaafiApp.Droid:textAllCaps
         */
         public static final int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a AppCompatTheme.
@@ -4849,122 +4847,122 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarDivider SaafiApp.SaafiApp:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground SaafiApp.SaafiApp:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme SaafiApp.SaafiApp:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSize SaafiApp.SaafiApp:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle SaafiApp.SaafiApp:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarStyle SaafiApp.SaafiApp:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle SaafiApp.SaafiApp:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle SaafiApp.SaafiApp:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle SaafiApp.SaafiApp:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTheme SaafiApp.SaafiApp:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme SaafiApp.SaafiApp:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle SaafiApp.SaafiApp:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle SaafiApp.SaafiApp:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance SaafiApp.SaafiApp:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor SaafiApp.SaafiApp:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeBackground SaafiApp.SaafiApp:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle SaafiApp.SaafiApp:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable SaafiApp.SaafiApp:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable SaafiApp.SaafiApp:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable SaafiApp.SaafiApp:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable SaafiApp.SaafiApp:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable SaafiApp.SaafiApp:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle SaafiApp.SaafiApp:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable SaafiApp.SaafiApp:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable SaafiApp.SaafiApp:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground SaafiApp.SaafiApp:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeStyle SaafiApp.SaafiApp:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable SaafiApp.SaafiApp:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle SaafiApp.SaafiApp:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle SaafiApp.SaafiApp:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle SaafiApp.SaafiApp:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle SaafiApp.SaafiApp:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons SaafiApp.SaafiApp:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle SaafiApp.SaafiApp:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme SaafiApp.SaafiApp:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarDivider SaafiApp.Droid.SaafiApp.Droid:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground SaafiApp.Droid.SaafiApp.Droid:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme SaafiApp.Droid.SaafiApp.Droid:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSize SaafiApp.Droid.SaafiApp.Droid:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle SaafiApp.Droid.SaafiApp.Droid:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarStyle SaafiApp.Droid.SaafiApp.Droid:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle SaafiApp.Droid.SaafiApp.Droid:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle SaafiApp.Droid.SaafiApp.Droid:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle SaafiApp.Droid.SaafiApp.Droid:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTheme SaafiApp.Droid.SaafiApp.Droid:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme SaafiApp.Droid.SaafiApp.Droid:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle SaafiApp.Droid.SaafiApp.Droid:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle SaafiApp.Droid.SaafiApp.Droid:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance SaafiApp.Droid.SaafiApp.Droid:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor SaafiApp.Droid.SaafiApp.Droid:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeBackground SaafiApp.Droid.SaafiApp.Droid:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle SaafiApp.Droid.SaafiApp.Droid:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable SaafiApp.Droid.SaafiApp.Droid:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable SaafiApp.Droid.SaafiApp.Droid:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable SaafiApp.Droid.SaafiApp.Droid:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable SaafiApp.Droid.SaafiApp.Droid:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable SaafiApp.Droid.SaafiApp.Droid:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle SaafiApp.Droid.SaafiApp.Droid:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable SaafiApp.Droid.SaafiApp.Droid:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable SaafiApp.Droid.SaafiApp.Droid:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground SaafiApp.Droid.SaafiApp.Droid:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeStyle SaafiApp.Droid.SaafiApp.Droid:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable SaafiApp.Droid.SaafiApp.Droid:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle SaafiApp.Droid.SaafiApp.Droid:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle SaafiApp.Droid.SaafiApp.Droid:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle SaafiApp.Droid.SaafiApp.Droid:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle SaafiApp.Droid.SaafiApp.Droid:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons SaafiApp.Droid.SaafiApp.Droid:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle SaafiApp.Droid.SaafiApp.Droid:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme SaafiApp.Droid.SaafiApp.Droid:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle SaafiApp.SaafiApp:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle SaafiApp.SaafiApp:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle SaafiApp.SaafiApp:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle SaafiApp.SaafiApp:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle SaafiApp.SaafiApp:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle SaafiApp.SaafiApp:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle SaafiApp.SaafiApp:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyle SaafiApp.SaafiApp:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall SaafiApp.SaafiApp:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkboxStyle SaafiApp.SaafiApp:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle SaafiApp.SaafiApp:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorAccent SaafiApp.SaafiApp:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating SaafiApp.SaafiApp:colorBackgroundFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal SaafiApp.SaafiApp:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlActivated SaafiApp.SaafiApp:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight SaafiApp.SaafiApp:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlNormal SaafiApp.SaafiApp:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimary SaafiApp.SaafiApp:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark SaafiApp.SaafiApp:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal SaafiApp.SaafiApp:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_controlBackground SaafiApp.SaafiApp:controlBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding SaafiApp.SaafiApp:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogTheme SaafiApp.SaafiApp:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal SaafiApp.SaafiApp:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerVertical SaafiApp.SaafiApp:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle SaafiApp.SaafiApp:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight SaafiApp.SaafiApp:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextBackground SaafiApp.SaafiApp:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextColor SaafiApp.SaafiApp:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextStyle SaafiApp.SaafiApp:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator SaafiApp.SaafiApp:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle SaafiApp.SaafiApp:imageButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator SaafiApp.SaafiApp:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog SaafiApp.SaafiApp:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle SaafiApp.SaafiApp:listMenuViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle SaafiApp.SaafiApp:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight SaafiApp.SaafiApp:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge SaafiApp.SaafiApp:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall SaafiApp.SaafiApp:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft SaafiApp.SaafiApp:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight SaafiApp.SaafiApp:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelBackground SaafiApp.SaafiApp:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme SaafiApp.SaafiApp:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth SaafiApp.SaafiApp:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle SaafiApp.SaafiApp:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle SaafiApp.SaafiApp:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle SaafiApp.SaafiApp:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle SaafiApp.SaafiApp:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator SaafiApp.SaafiApp:ratingBarStyleIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall SaafiApp.SaafiApp:ratingBarStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_searchViewStyle SaafiApp.SaafiApp:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_seekBarStyle SaafiApp.SaafiApp:seekBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground SaafiApp.SaafiApp:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless SaafiApp.SaafiApp:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle SaafiApp.SaafiApp:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerStyle SaafiApp.SaafiApp:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_switchStyle SaafiApp.SaafiApp:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu SaafiApp.SaafiApp:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem SaafiApp.SaafiApp:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary SaafiApp.SaafiApp:textAppearanceListItemSecondary}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall SaafiApp.SaafiApp:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader SaafiApp.SaafiApp:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle SaafiApp.SaafiApp:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle SaafiApp.SaafiApp:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu SaafiApp.SaafiApp:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem SaafiApp.SaafiApp:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl SaafiApp.SaafiApp:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle SaafiApp.SaafiApp:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarStyle SaafiApp.SaafiApp:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBar SaafiApp.SaafiApp:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay SaafiApp.SaafiApp:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay SaafiApp.SaafiApp:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor SaafiApp.SaafiApp:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor SaafiApp.SaafiApp:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor SaafiApp.SaafiApp:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor SaafiApp.SaafiApp:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor SaafiApp.SaafiApp:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor SaafiApp.SaafiApp:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowNoTitle SaafiApp.SaafiApp:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle SaafiApp.Droid.SaafiApp.Droid:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle SaafiApp.Droid.SaafiApp.Droid:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle SaafiApp.Droid.SaafiApp.Droid:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle SaafiApp.Droid.SaafiApp.Droid:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle SaafiApp.Droid.SaafiApp.Droid:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle SaafiApp.Droid.SaafiApp.Droid:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle SaafiApp.Droid.SaafiApp.Droid:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyle SaafiApp.Droid.SaafiApp.Droid:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall SaafiApp.Droid.SaafiApp.Droid:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkboxStyle SaafiApp.Droid.SaafiApp.Droid:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle SaafiApp.Droid.SaafiApp.Droid:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorAccent SaafiApp.Droid.SaafiApp.Droid:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating SaafiApp.Droid.SaafiApp.Droid:colorBackgroundFloating}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal SaafiApp.Droid.SaafiApp.Droid:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlActivated SaafiApp.Droid.SaafiApp.Droid:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight SaafiApp.Droid.SaafiApp.Droid:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlNormal SaafiApp.Droid.SaafiApp.Droid:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimary SaafiApp.Droid.SaafiApp.Droid:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark SaafiApp.Droid.SaafiApp.Droid:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal SaafiApp.Droid.SaafiApp.Droid:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_controlBackground SaafiApp.Droid.SaafiApp.Droid:controlBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding SaafiApp.Droid.SaafiApp.Droid:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogTheme SaafiApp.Droid.SaafiApp.Droid:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal SaafiApp.Droid.SaafiApp.Droid:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerVertical SaafiApp.Droid.SaafiApp.Droid:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle SaafiApp.Droid.SaafiApp.Droid:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight SaafiApp.Droid.SaafiApp.Droid:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextBackground SaafiApp.Droid.SaafiApp.Droid:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextColor SaafiApp.Droid.SaafiApp.Droid:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextStyle SaafiApp.Droid.SaafiApp.Droid:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator SaafiApp.Droid.SaafiApp.Droid:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle SaafiApp.Droid.SaafiApp.Droid:imageButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator SaafiApp.Droid.SaafiApp.Droid:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog SaafiApp.Droid.SaafiApp.Droid:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle SaafiApp.Droid.SaafiApp.Droid:listMenuViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle SaafiApp.Droid.SaafiApp.Droid:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight SaafiApp.Droid.SaafiApp.Droid:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge SaafiApp.Droid.SaafiApp.Droid:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall SaafiApp.Droid.SaafiApp.Droid:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft SaafiApp.Droid.SaafiApp.Droid:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight SaafiApp.Droid.SaafiApp.Droid:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelBackground SaafiApp.Droid.SaafiApp.Droid:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme SaafiApp.Droid.SaafiApp.Droid:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth SaafiApp.Droid.SaafiApp.Droid:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle SaafiApp.Droid.SaafiApp.Droid:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle SaafiApp.Droid.SaafiApp.Droid:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle SaafiApp.Droid.SaafiApp.Droid:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle SaafiApp.Droid.SaafiApp.Droid:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator SaafiApp.Droid.SaafiApp.Droid:ratingBarStyleIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall SaafiApp.Droid.SaafiApp.Droid:ratingBarStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_searchViewStyle SaafiApp.Droid.SaafiApp.Droid:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_seekBarStyle SaafiApp.Droid.SaafiApp.Droid:seekBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground SaafiApp.Droid.SaafiApp.Droid:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless SaafiApp.Droid.SaafiApp.Droid:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle SaafiApp.Droid.SaafiApp.Droid:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerStyle SaafiApp.Droid.SaafiApp.Droid:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_switchStyle SaafiApp.Droid.SaafiApp.Droid:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu SaafiApp.Droid.SaafiApp.Droid:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem SaafiApp.Droid.SaafiApp.Droid:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary SaafiApp.Droid.SaafiApp.Droid:textAppearanceListItemSecondary}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall SaafiApp.Droid.SaafiApp.Droid:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader SaafiApp.Droid.SaafiApp.Droid:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle SaafiApp.Droid.SaafiApp.Droid:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle SaafiApp.Droid.SaafiApp.Droid:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu SaafiApp.Droid.SaafiApp.Droid:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem SaafiApp.Droid.SaafiApp.Droid:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl SaafiApp.Droid.SaafiApp.Droid:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle SaafiApp.Droid.SaafiApp.Droid:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarStyle SaafiApp.Droid.SaafiApp.Droid:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBar SaafiApp.Droid.SaafiApp.Droid:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay SaafiApp.Droid.SaafiApp.Droid:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay SaafiApp.Droid.SaafiApp.Droid:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor SaafiApp.Droid.SaafiApp.Droid:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor SaafiApp.Droid.SaafiApp.Droid:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor SaafiApp.Droid.SaafiApp.Droid:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor SaafiApp.Droid.SaafiApp.Droid:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor SaafiApp.Droid.SaafiApp.Droid:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor SaafiApp.Droid.SaafiApp.Droid:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowNoTitle SaafiApp.Droid.SaafiApp.Droid:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #AppCompatTheme_actionBarDivider
            @see #AppCompatTheme_actionBarItemBackground
@@ -5115,37 +5113,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100ab, 0x7f0100ac, 0x7f0100ad, 0x7f0100ae
         };
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:actionBarDivider
+          @attr name SaafiApp.Droid.SaafiApp.Droid:actionBarDivider
         */
         public static final int AppCompatTheme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:actionBarItemBackground
+          @attr name SaafiApp.Droid.SaafiApp.Droid:actionBarItemBackground
         */
         public static final int AppCompatTheme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:actionBarPopupTheme
+          @attr name SaafiApp.Droid.SaafiApp.Droid:actionBarPopupTheme
         */
         public static final int AppCompatTheme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#actionBarSize}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5165,111 +5163,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name SaafiApp.SaafiApp:actionBarSize
+          @attr name SaafiApp.Droid.SaafiApp.Droid:actionBarSize
         */
         public static final int AppCompatTheme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:actionBarSplitStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:actionBarSplitStyle
         */
         public static final int AppCompatTheme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:actionBarStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:actionBarStyle
         */
         public static final int AppCompatTheme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:actionBarTabBarStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:actionBarTabBarStyle
         */
         public static final int AppCompatTheme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:actionBarTabStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:actionBarTabStyle
         */
         public static final int AppCompatTheme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:actionBarTabTextStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:actionBarTabTextStyle
         */
         public static final int AppCompatTheme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:actionBarTheme
+          @attr name SaafiApp.Droid.SaafiApp.Droid:actionBarTheme
         */
         public static final int AppCompatTheme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:actionBarWidgetTheme
+          @attr name SaafiApp.Droid.SaafiApp.Droid:actionBarWidgetTheme
         */
         public static final int AppCompatTheme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:actionButtonStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:actionButtonStyle
         */
         public static final int AppCompatTheme_actionButtonStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:actionDropDownStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:actionDropDownStyle
         */
         public static final int AppCompatTheme_actionDropDownStyle = 46;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:actionMenuTextAppearance
+          @attr name SaafiApp.Droid.SaafiApp.Droid:actionMenuTextAppearance
         */
         public static final int AppCompatTheme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5277,181 +5275,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name SaafiApp.SaafiApp:actionMenuTextColor
+          @attr name SaafiApp.Droid.SaafiApp.Droid:actionMenuTextColor
         */
         public static final int AppCompatTheme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:actionModeBackground
+          @attr name SaafiApp.Droid.SaafiApp.Droid:actionModeBackground
         */
         public static final int AppCompatTheme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:actionModeCloseButtonStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:actionModeCloseButtonStyle
         */
         public static final int AppCompatTheme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:actionModeCloseDrawable
+          @attr name SaafiApp.Droid.SaafiApp.Droid:actionModeCloseDrawable
         */
         public static final int AppCompatTheme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:actionModeCopyDrawable
+          @attr name SaafiApp.Droid.SaafiApp.Droid:actionModeCopyDrawable
         */
         public static final int AppCompatTheme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:actionModeCutDrawable
+          @attr name SaafiApp.Droid.SaafiApp.Droid:actionModeCutDrawable
         */
         public static final int AppCompatTheme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:actionModeFindDrawable
+          @attr name SaafiApp.Droid.SaafiApp.Droid:actionModeFindDrawable
         */
         public static final int AppCompatTheme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:actionModePasteDrawable
+          @attr name SaafiApp.Droid.SaafiApp.Droid:actionModePasteDrawable
         */
         public static final int AppCompatTheme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:actionModePopupWindowStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:actionModePopupWindowStyle
         */
         public static final int AppCompatTheme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:actionModeSelectAllDrawable
+          @attr name SaafiApp.Droid.SaafiApp.Droid:actionModeSelectAllDrawable
         */
         public static final int AppCompatTheme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:actionModeShareDrawable
+          @attr name SaafiApp.Droid.SaafiApp.Droid:actionModeShareDrawable
         */
         public static final int AppCompatTheme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:actionModeSplitBackground
+          @attr name SaafiApp.Droid.SaafiApp.Droid:actionModeSplitBackground
         */
         public static final int AppCompatTheme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:actionModeStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:actionModeStyle
         */
         public static final int AppCompatTheme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:actionModeWebSearchDrawable
+          @attr name SaafiApp.Droid.SaafiApp.Droid:actionModeWebSearchDrawable
         */
         public static final int AppCompatTheme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:actionOverflowButtonStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:actionOverflowButtonStyle
         */
         public static final int AppCompatTheme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:actionOverflowMenuStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:actionOverflowMenuStyle
         */
         public static final int AppCompatTheme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:activityChooserViewStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:activityChooserViewStyle
         */
         public static final int AppCompatTheme_activityChooserViewStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:alertDialogButtonGroupStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:alertDialogButtonGroupStyle
         */
         public static final int AppCompatTheme_alertDialogButtonGroupStyle = 95;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5461,27 +5459,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:alertDialogCenterButtons
+          @attr name SaafiApp.Droid.SaafiApp.Droid:alertDialogCenterButtons
         */
         public static final int AppCompatTheme_alertDialogCenterButtons = 96;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:alertDialogStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:alertDialogStyle
         */
         public static final int AppCompatTheme_alertDialogStyle = 94;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:alertDialogTheme
+          @attr name SaafiApp.Droid.SaafiApp.Droid:alertDialogTheme
         */
         public static final int AppCompatTheme_alertDialogTheme = 97;
         /**
@@ -5497,117 +5495,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatTheme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:autoCompleteTextViewStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:autoCompleteTextViewStyle
         */
         public static final int AppCompatTheme_autoCompleteTextViewStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:borderlessButtonStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:borderlessButtonStyle
         */
         public static final int AppCompatTheme_borderlessButtonStyle = 55;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:buttonBarButtonStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:buttonBarButtonStyle
         */
         public static final int AppCompatTheme_buttonBarButtonStyle = 52;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:buttonBarNegativeButtonStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:buttonBarNegativeButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNegativeButtonStyle = 100;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:buttonBarNeutralButtonStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:buttonBarNeutralButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNeutralButtonStyle = 101;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:buttonBarPositiveButtonStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:buttonBarPositiveButtonStyle
         */
         public static final int AppCompatTheme_buttonBarPositiveButtonStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:buttonBarStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:buttonBarStyle
         */
         public static final int AppCompatTheme_buttonBarStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#buttonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:buttonStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:buttonStyle
         */
         public static final int AppCompatTheme_buttonStyle = 103;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:buttonStyleSmall
+          @attr name SaafiApp.Droid.SaafiApp.Droid:buttonStyleSmall
         */
         public static final int AppCompatTheme_buttonStyleSmall = 104;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:checkboxStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:checkboxStyle
         */
         public static final int AppCompatTheme_checkboxStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:checkedTextViewStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:checkedTextViewStyle
         */
         public static final int AppCompatTheme_checkedTextViewStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#colorAccent}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5618,11 +5616,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:colorAccent
+          @attr name SaafiApp.Droid.SaafiApp.Droid:colorAccent
         */
         public static final int AppCompatTheme_colorAccent = 86;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#colorBackgroundFloating}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#colorBackgroundFloating}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5633,11 +5631,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:colorBackgroundFloating
+          @attr name SaafiApp.Droid.SaafiApp.Droid:colorBackgroundFloating
         */
         public static final int AppCompatTheme_colorBackgroundFloating = 93;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5648,11 +5646,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:colorButtonNormal
+          @attr name SaafiApp.Droid.SaafiApp.Droid:colorButtonNormal
         */
         public static final int AppCompatTheme_colorButtonNormal = 90;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5663,11 +5661,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:colorControlActivated
+          @attr name SaafiApp.Droid.SaafiApp.Droid:colorControlActivated
         */
         public static final int AppCompatTheme_colorControlActivated = 88;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5678,11 +5676,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:colorControlHighlight
+          @attr name SaafiApp.Droid.SaafiApp.Droid:colorControlHighlight
         */
         public static final int AppCompatTheme_colorControlHighlight = 89;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5693,11 +5691,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:colorControlNormal
+          @attr name SaafiApp.Droid.SaafiApp.Droid:colorControlNormal
         */
         public static final int AppCompatTheme_colorControlNormal = 87;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#colorPrimary}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5708,11 +5706,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:colorPrimary
+          @attr name SaafiApp.Droid.SaafiApp.Droid:colorPrimary
         */
         public static final int AppCompatTheme_colorPrimary = 84;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5723,11 +5721,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:colorPrimaryDark
+          @attr name SaafiApp.Droid.SaafiApp.Droid:colorPrimaryDark
         */
         public static final int AppCompatTheme_colorPrimaryDark = 85;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5738,21 +5736,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:colorSwitchThumbNormal
+          @attr name SaafiApp.Droid.SaafiApp.Droid:colorSwitchThumbNormal
         */
         public static final int AppCompatTheme_colorSwitchThumbNormal = 91;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#controlBackground}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#controlBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:controlBackground
+          @attr name SaafiApp.Droid.SaafiApp.Droid:controlBackground
         */
         public static final int AppCompatTheme_controlBackground = 92;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5764,51 +5762,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:dialogPreferredPadding
+          @attr name SaafiApp.Droid.SaafiApp.Droid:dialogPreferredPadding
         */
         public static final int AppCompatTheme_dialogPreferredPadding = 44;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#dialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:dialogTheme
+          @attr name SaafiApp.Droid.SaafiApp.Droid:dialogTheme
         */
         public static final int AppCompatTheme_dialogTheme = 43;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:dividerHorizontal
+          @attr name SaafiApp.Droid.SaafiApp.Droid:dividerHorizontal
         */
         public static final int AppCompatTheme_dividerHorizontal = 57;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#dividerVertical}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:dividerVertical
+          @attr name SaafiApp.Droid.SaafiApp.Droid:dividerVertical
         */
         public static final int AppCompatTheme_dividerVertical = 56;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:dropDownListViewStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:dropDownListViewStyle
         */
         public static final int AppCompatTheme_dropDownListViewStyle = 75;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5820,21 +5818,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:dropdownListPreferredItemHeight
+          @attr name SaafiApp.Droid.SaafiApp.Droid:dropdownListPreferredItemHeight
         */
         public static final int AppCompatTheme_dropdownListPreferredItemHeight = 47;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#editTextBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:editTextBackground
+          @attr name SaafiApp.Droid.SaafiApp.Droid:editTextBackground
         */
         public static final int AppCompatTheme_editTextBackground = 64;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#editTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5842,81 +5840,81 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name SaafiApp.SaafiApp:editTextColor
+          @attr name SaafiApp.Droid.SaafiApp.Droid:editTextColor
         */
         public static final int AppCompatTheme_editTextColor = 63;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#editTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:editTextStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:editTextStyle
         */
         public static final int AppCompatTheme_editTextStyle = 107;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:homeAsUpIndicator
+          @attr name SaafiApp.Droid.SaafiApp.Droid:homeAsUpIndicator
         */
         public static final int AppCompatTheme_homeAsUpIndicator = 49;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#imageButtonStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#imageButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:imageButtonStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:imageButtonStyle
         */
         public static final int AppCompatTheme_imageButtonStyle = 65;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:listChoiceBackgroundIndicator
+          @attr name SaafiApp.Droid.SaafiApp.Droid:listChoiceBackgroundIndicator
         */
         public static final int AppCompatTheme_listChoiceBackgroundIndicator = 83;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:listDividerAlertDialog
+          @attr name SaafiApp.Droid.SaafiApp.Droid:listDividerAlertDialog
         */
         public static final int AppCompatTheme_listDividerAlertDialog = 45;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#listMenuViewStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#listMenuViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:listMenuViewStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:listMenuViewStyle
         */
         public static final int AppCompatTheme_listMenuViewStyle = 115;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:listPopupWindowStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:listPopupWindowStyle
         */
         public static final int AppCompatTheme_listPopupWindowStyle = 76;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5928,11 +5926,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:listPreferredItemHeight
+          @attr name SaafiApp.Droid.SaafiApp.Droid:listPreferredItemHeight
         */
         public static final int AppCompatTheme_listPreferredItemHeight = 70;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5944,11 +5942,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:listPreferredItemHeightLarge
+          @attr name SaafiApp.Droid.SaafiApp.Droid:listPreferredItemHeightLarge
         */
         public static final int AppCompatTheme_listPreferredItemHeightLarge = 72;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5960,11 +5958,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:listPreferredItemHeightSmall
+          @attr name SaafiApp.Droid.SaafiApp.Droid:listPreferredItemHeightSmall
         */
         public static final int AppCompatTheme_listPreferredItemHeightSmall = 71;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5976,11 +5974,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:listPreferredItemPaddingLeft
+          @attr name SaafiApp.Droid.SaafiApp.Droid:listPreferredItemPaddingLeft
         */
         public static final int AppCompatTheme_listPreferredItemPaddingLeft = 73;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5992,31 +5990,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:listPreferredItemPaddingRight
+          @attr name SaafiApp.Droid.SaafiApp.Droid:listPreferredItemPaddingRight
         */
         public static final int AppCompatTheme_listPreferredItemPaddingRight = 74;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#panelBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:panelBackground
+          @attr name SaafiApp.Droid.SaafiApp.Droid:panelBackground
         */
         public static final int AppCompatTheme_panelBackground = 80;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:panelMenuListTheme
+          @attr name SaafiApp.Droid.SaafiApp.Droid:panelMenuListTheme
         */
         public static final int AppCompatTheme_panelMenuListTheme = 82;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6028,221 +6026,221 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:panelMenuListWidth
+          @attr name SaafiApp.Droid.SaafiApp.Droid:panelMenuListWidth
         */
         public static final int AppCompatTheme_panelMenuListWidth = 81;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:popupMenuStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:popupMenuStyle
         */
         public static final int AppCompatTheme_popupMenuStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:popupWindowStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:popupWindowStyle
         */
         public static final int AppCompatTheme_popupWindowStyle = 62;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:radioButtonStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:radioButtonStyle
         */
         public static final int AppCompatTheme_radioButtonStyle = 108;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:ratingBarStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:ratingBarStyle
         */
         public static final int AppCompatTheme_ratingBarStyle = 109;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#ratingBarStyleIndicator}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#ratingBarStyleIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:ratingBarStyleIndicator
+          @attr name SaafiApp.Droid.SaafiApp.Droid:ratingBarStyleIndicator
         */
         public static final int AppCompatTheme_ratingBarStyleIndicator = 110;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#ratingBarStyleSmall}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#ratingBarStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:ratingBarStyleSmall
+          @attr name SaafiApp.Droid.SaafiApp.Droid:ratingBarStyleSmall
         */
         public static final int AppCompatTheme_ratingBarStyleSmall = 111;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:searchViewStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:searchViewStyle
         */
         public static final int AppCompatTheme_searchViewStyle = 69;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#seekBarStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#seekBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:seekBarStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:seekBarStyle
         */
         public static final int AppCompatTheme_seekBarStyle = 112;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:selectableItemBackground
+          @attr name SaafiApp.Droid.SaafiApp.Droid:selectableItemBackground
         */
         public static final int AppCompatTheme_selectableItemBackground = 53;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:selectableItemBackgroundBorderless
+          @attr name SaafiApp.Droid.SaafiApp.Droid:selectableItemBackgroundBorderless
         */
         public static final int AppCompatTheme_selectableItemBackgroundBorderless = 54;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:spinnerDropDownItemStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:spinnerDropDownItemStyle
         */
         public static final int AppCompatTheme_spinnerDropDownItemStyle = 48;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:spinnerStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:spinnerStyle
         */
         public static final int AppCompatTheme_spinnerStyle = 113;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#switchStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:switchStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:switchStyle
         */
         public static final int AppCompatTheme_switchStyle = 114;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:textAppearanceLargePopupMenu
+          @attr name SaafiApp.Droid.SaafiApp.Droid:textAppearanceLargePopupMenu
         */
         public static final int AppCompatTheme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:textAppearanceListItem
+          @attr name SaafiApp.Droid.SaafiApp.Droid:textAppearanceListItem
         */
         public static final int AppCompatTheme_textAppearanceListItem = 77;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#textAppearanceListItemSecondary}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#textAppearanceListItemSecondary}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:textAppearanceListItemSecondary
+          @attr name SaafiApp.Droid.SaafiApp.Droid:textAppearanceListItemSecondary
         */
         public static final int AppCompatTheme_textAppearanceListItemSecondary = 78;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:textAppearanceListItemSmall
+          @attr name SaafiApp.Droid.SaafiApp.Droid:textAppearanceListItemSmall
         */
         public static final int AppCompatTheme_textAppearanceListItemSmall = 79;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#textAppearancePopupMenuHeader}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#textAppearancePopupMenuHeader}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:textAppearancePopupMenuHeader
+          @attr name SaafiApp.Droid.SaafiApp.Droid:textAppearancePopupMenuHeader
         */
         public static final int AppCompatTheme_textAppearancePopupMenuHeader = 42;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:textAppearanceSearchResultSubtitle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:textAppearanceSearchResultSubtitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultSubtitle = 67;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:textAppearanceSearchResultTitle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:textAppearanceSearchResultTitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultTitle = 66;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:textAppearanceSmallPopupMenu
+          @attr name SaafiApp.Droid.SaafiApp.Droid:textAppearanceSmallPopupMenu
         */
         public static final int AppCompatTheme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6250,11 +6248,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name SaafiApp.SaafiApp:textColorAlertDialogListItem
+          @attr name SaafiApp.Droid.SaafiApp.Droid:textColorAlertDialogListItem
         */
         public static final int AppCompatTheme_textColorAlertDialogListItem = 98;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6262,31 +6260,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name SaafiApp.SaafiApp:textColorSearchUrl
+          @attr name SaafiApp.Droid.SaafiApp.Droid:textColorSearchUrl
         */
         public static final int AppCompatTheme_textColorSearchUrl = 68;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:toolbarNavigationButtonStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:toolbarNavigationButtonStyle
         */
         public static final int AppCompatTheme_toolbarNavigationButtonStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:toolbarStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:toolbarStyle
         */
         public static final int AppCompatTheme_toolbarStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#windowActionBar}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6296,11 +6294,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:windowActionBar
+          @attr name SaafiApp.Droid.SaafiApp.Droid:windowActionBar
         */
         public static final int AppCompatTheme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6310,11 +6308,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:windowActionBarOverlay
+          @attr name SaafiApp.Droid.SaafiApp.Droid:windowActionBarOverlay
         */
         public static final int AppCompatTheme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6324,11 +6322,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:windowActionModeOverlay
+          @attr name SaafiApp.Droid.SaafiApp.Droid:windowActionModeOverlay
         */
         public static final int AppCompatTheme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6343,11 +6341,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:windowFixedHeightMajor
+          @attr name SaafiApp.Droid.SaafiApp.Droid:windowFixedHeightMajor
         */
         public static final int AppCompatTheme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6362,11 +6360,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:windowFixedHeightMinor
+          @attr name SaafiApp.Droid.SaafiApp.Droid:windowFixedHeightMinor
         */
         public static final int AppCompatTheme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6381,11 +6379,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:windowFixedWidthMajor
+          @attr name SaafiApp.Droid.SaafiApp.Droid:windowFixedWidthMajor
         */
         public static final int AppCompatTheme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6400,11 +6398,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:windowFixedWidthMinor
+          @attr name SaafiApp.Droid.SaafiApp.Droid:windowFixedWidthMinor
         */
         public static final int AppCompatTheme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6419,11 +6417,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:windowMinWidthMajor
+          @attr name SaafiApp.Droid.SaafiApp.Droid:windowMinWidthMajor
         */
         public static final int AppCompatTheme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6438,11 +6436,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:windowMinWidthMinor
+          @attr name SaafiApp.Droid.SaafiApp.Droid:windowMinWidthMinor
         */
         public static final int AppCompatTheme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6452,7 +6450,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:windowNoTitle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:windowNoTitle
         */
         public static final int AppCompatTheme_windowNoTitle = 3;
         /** Attributes that can be used with a BottomNavigationView.
@@ -6461,11 +6459,11 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomNavigationView_elevation SaafiApp.SaafiApp:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemBackground SaafiApp.SaafiApp:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemIconTint SaafiApp.SaafiApp:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemTextColor SaafiApp.SaafiApp:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_menu SaafiApp.SaafiApp:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_elevation SaafiApp.Droid.SaafiApp.Droid:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemBackground SaafiApp.Droid.SaafiApp.Droid:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemIconTint SaafiApp.Droid.SaafiApp.Droid:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemTextColor SaafiApp.Droid.SaafiApp.Droid:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_menu SaafiApp.Droid.SaafiApp.Droid:menu}</code></td><td></td></tr>
            </table>
            @see #BottomNavigationView_elevation
            @see #BottomNavigationView_itemBackground
@@ -6478,7 +6476,7 @@ containing a value of this type.
             0x7f010124
         };
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#elevation}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#elevation}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6490,21 +6488,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:elevation
+          @attr name SaafiApp.Droid.SaafiApp.Droid:elevation
         */
         public static final int BottomNavigationView_elevation = 0;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#itemBackground}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:itemBackground
+          @attr name SaafiApp.Droid.SaafiApp.Droid:itemBackground
         */
         public static final int BottomNavigationView_itemBackground = 4;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#itemIconTint}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6515,11 +6513,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:itemIconTint
+          @attr name SaafiApp.Droid.SaafiApp.Droid:itemIconTint
         */
         public static final int BottomNavigationView_itemIconTint = 2;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#itemTextColor}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6530,17 +6528,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:itemTextColor
+          @attr name SaafiApp.Droid.SaafiApp.Droid:itemTextColor
         */
         public static final int BottomNavigationView_itemTextColor = 3;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#menu}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#menu}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:menu
+          @attr name SaafiApp.Droid.SaafiApp.Droid:menu
         */
         public static final int BottomNavigationView_menu = 1;
         /** Attributes that can be used with a BottomSheetBehavior_Layout.
@@ -6549,9 +6547,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable SaafiApp.SaafiApp:behavior_hideable}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight SaafiApp.SaafiApp:behavior_peekHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed SaafiApp.SaafiApp:behavior_skipCollapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable SaafiApp.Droid.SaafiApp.Droid:behavior_hideable}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight SaafiApp.Droid.SaafiApp.Droid:behavior_peekHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed SaafiApp.Droid.SaafiApp.Droid:behavior_skipCollapsed}</code></td><td></td></tr>
            </table>
            @see #BottomSheetBehavior_Layout_behavior_hideable
            @see #BottomSheetBehavior_Layout_behavior_peekHeight
@@ -6561,7 +6559,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100fb, 0x7f0100fc, 0x7f0100fd
         };
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#behavior_hideable}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#behavior_hideable}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6571,11 +6569,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:behavior_hideable
+          @attr name SaafiApp.Droid.SaafiApp.Droid:behavior_hideable
         */
         public static final int BottomSheetBehavior_Layout_behavior_hideable = 1;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#behavior_peekHeight}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#behavior_peekHeight}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6595,11 +6593,11 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>auto</code></td><td>-1</td><td></td></tr>
 </table>
-          @attr name SaafiApp.SaafiApp:behavior_peekHeight
+          @attr name SaafiApp.Droid.SaafiApp.Droid:behavior_peekHeight
         */
         public static final int BottomSheetBehavior_Layout_behavior_peekHeight = 0;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#behavior_skipCollapsed}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#behavior_skipCollapsed}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6609,7 +6607,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:behavior_skipCollapsed
+          @attr name SaafiApp.Droid.SaafiApp.Droid:behavior_skipCollapsed
         */
         public static final int BottomSheetBehavior_Layout_behavior_skipCollapsed = 2;
         /** Attributes that can be used with a ButtonBarLayout.
@@ -6618,7 +6616,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ButtonBarLayout_allowStacking SaafiApp.SaafiApp:allowStacking}</code></td><td></td></tr>
+           <tr><td><code>{@link #ButtonBarLayout_allowStacking SaafiApp.Droid.SaafiApp.Droid:allowStacking}</code></td><td></td></tr>
            </table>
            @see #ButtonBarLayout_allowStacking
          */
@@ -6626,7 +6624,7 @@ containing a value of this type.
             0x7f0100af
         };
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#allowStacking}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#allowStacking}
           attribute's value can be found in the {@link #ButtonBarLayout} array.
 
 
@@ -6636,7 +6634,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:allowStacking
+          @attr name SaafiApp.Droid.SaafiApp.Droid:allowStacking
         */
         public static final int ButtonBarLayout_allowStacking = 0;
         /** Attributes that can be used with a CalendarPickerView.
@@ -6646,12 +6644,12 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CalendarPickerView_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #CalendarPickerView_tsquare_dayBackground SaafiApp.SaafiApp:tsquare_dayBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #CalendarPickerView_tsquare_dayTextColor SaafiApp.SaafiApp:tsquare_dayTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CalendarPickerView_tsquare_displayHeader SaafiApp.SaafiApp:tsquare_displayHeader}</code></td><td></td></tr>
-           <tr><td><code>{@link #CalendarPickerView_tsquare_dividerColor SaafiApp.SaafiApp:tsquare_dividerColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CalendarPickerView_tsquare_headerTextColor SaafiApp.SaafiApp:tsquare_headerTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CalendarPickerView_tsquare_titleTextColor SaafiApp.SaafiApp:tsquare_titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CalendarPickerView_tsquare_dayBackground SaafiApp.Droid.SaafiApp.Droid:tsquare_dayBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #CalendarPickerView_tsquare_dayTextColor SaafiApp.Droid.SaafiApp.Droid:tsquare_dayTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CalendarPickerView_tsquare_displayHeader SaafiApp.Droid.SaafiApp.Droid:tsquare_displayHeader}</code></td><td></td></tr>
+           <tr><td><code>{@link #CalendarPickerView_tsquare_dividerColor SaafiApp.Droid.SaafiApp.Droid:tsquare_dividerColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CalendarPickerView_tsquare_headerTextColor SaafiApp.Droid.SaafiApp.Droid:tsquare_headerTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CalendarPickerView_tsquare_titleTextColor SaafiApp.Droid.SaafiApp.Droid:tsquare_titleTextColor}</code></td><td></td></tr>
            </table>
            @see #CalendarPickerView_android_background
            @see #CalendarPickerView_tsquare_dayBackground
@@ -6672,17 +6670,17 @@ containing a value of this type.
         */
         public static final int CalendarPickerView_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#tsquare_dayBackground}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#tsquare_dayBackground}
           attribute's value can be found in the {@link #CalendarPickerView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:tsquare_dayBackground
+          @attr name SaafiApp.Droid.SaafiApp.Droid:tsquare_dayBackground
         */
         public static final int CalendarPickerView_tsquare_dayBackground = 2;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#tsquare_dayTextColor}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#tsquare_dayTextColor}
           attribute's value can be found in the {@link #CalendarPickerView} array.
 
 
@@ -6693,11 +6691,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:tsquare_dayTextColor
+          @attr name SaafiApp.Droid.SaafiApp.Droid:tsquare_dayTextColor
         */
         public static final int CalendarPickerView_tsquare_dayTextColor = 3;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#tsquare_displayHeader}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#tsquare_displayHeader}
           attribute's value can be found in the {@link #CalendarPickerView} array.
 
 
@@ -6707,11 +6705,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:tsquare_displayHeader
+          @attr name SaafiApp.Droid.SaafiApp.Droid:tsquare_displayHeader
         */
         public static final int CalendarPickerView_tsquare_displayHeader = 5;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#tsquare_dividerColor}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#tsquare_dividerColor}
           attribute's value can be found in the {@link #CalendarPickerView} array.
 
 
@@ -6722,11 +6720,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:tsquare_dividerColor
+          @attr name SaafiApp.Droid.SaafiApp.Droid:tsquare_dividerColor
         */
         public static final int CalendarPickerView_tsquare_dividerColor = 1;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#tsquare_headerTextColor}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#tsquare_headerTextColor}
           attribute's value can be found in the {@link #CalendarPickerView} array.
 
 
@@ -6737,11 +6735,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:tsquare_headerTextColor
+          @attr name SaafiApp.Droid.SaafiApp.Droid:tsquare_headerTextColor
         */
         public static final int CalendarPickerView_tsquare_headerTextColor = 6;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#tsquare_titleTextColor}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#tsquare_titleTextColor}
           attribute's value can be found in the {@link #CalendarPickerView} array.
 
 
@@ -6752,7 +6750,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:tsquare_titleTextColor
+          @attr name SaafiApp.Droid.SaafiApp.Droid:tsquare_titleTextColor
         */
         public static final int CalendarPickerView_tsquare_titleTextColor = 4;
         /** Attributes that can be used with a CardView.
@@ -6763,17 +6761,17 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CardView_android_minHeight android:minHeight}</code></td><td></td></tr>
            <tr><td><code>{@link #CardView_android_minWidth android:minWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardBackgroundColor SaafiApp.SaafiApp:cardBackgroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardCornerRadius SaafiApp.SaafiApp:cardCornerRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardElevation SaafiApp.SaafiApp:cardElevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardMaxElevation SaafiApp.SaafiApp:cardMaxElevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardPreventCornerOverlap SaafiApp.SaafiApp:cardPreventCornerOverlap}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardUseCompatPadding SaafiApp.SaafiApp:cardUseCompatPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPadding SaafiApp.SaafiApp:contentPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingBottom SaafiApp.SaafiApp:contentPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingLeft SaafiApp.SaafiApp:contentPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingRight SaafiApp.SaafiApp:contentPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingTop SaafiApp.SaafiApp:contentPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardBackgroundColor SaafiApp.Droid.SaafiApp.Droid:cardBackgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardCornerRadius SaafiApp.Droid.SaafiApp.Droid:cardCornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardElevation SaafiApp.Droid.SaafiApp.Droid:cardElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardMaxElevation SaafiApp.Droid.SaafiApp.Droid:cardMaxElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardPreventCornerOverlap SaafiApp.Droid.SaafiApp.Droid:cardPreventCornerOverlap}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardUseCompatPadding SaafiApp.Droid.SaafiApp.Droid:cardUseCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPadding SaafiApp.Droid.SaafiApp.Droid:contentPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingBottom SaafiApp.Droid.SaafiApp.Droid:contentPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingLeft SaafiApp.Droid.SaafiApp.Droid:contentPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingRight SaafiApp.Droid.SaafiApp.Droid:contentPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingTop SaafiApp.Droid.SaafiApp.Droid:contentPaddingTop}</code></td><td></td></tr>
            </table>
            @see #CardView_android_minHeight
            @see #CardView_android_minWidth
@@ -6808,7 +6806,7 @@ containing a value of this type.
         */
         public static final int CardView_android_minWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#cardBackgroundColor}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#cardBackgroundColor}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6819,11 +6817,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:cardBackgroundColor
+          @attr name SaafiApp.Droid.SaafiApp.Droid:cardBackgroundColor
         */
         public static final int CardView_cardBackgroundColor = 2;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#cardCornerRadius}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#cardCornerRadius}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6835,11 +6833,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:cardCornerRadius
+          @attr name SaafiApp.Droid.SaafiApp.Droid:cardCornerRadius
         */
         public static final int CardView_cardCornerRadius = 3;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#cardElevation}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#cardElevation}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6851,11 +6849,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:cardElevation
+          @attr name SaafiApp.Droid.SaafiApp.Droid:cardElevation
         */
         public static final int CardView_cardElevation = 4;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#cardMaxElevation}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#cardMaxElevation}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6867,11 +6865,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:cardMaxElevation
+          @attr name SaafiApp.Droid.SaafiApp.Droid:cardMaxElevation
         */
         public static final int CardView_cardMaxElevation = 5;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#cardPreventCornerOverlap}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#cardPreventCornerOverlap}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6881,11 +6879,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:cardPreventCornerOverlap
+          @attr name SaafiApp.Droid.SaafiApp.Droid:cardPreventCornerOverlap
         */
         public static final int CardView_cardPreventCornerOverlap = 7;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#cardUseCompatPadding}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#cardUseCompatPadding}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6895,11 +6893,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:cardUseCompatPadding
+          @attr name SaafiApp.Droid.SaafiApp.Droid:cardUseCompatPadding
         */
         public static final int CardView_cardUseCompatPadding = 6;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#contentPadding}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#contentPadding}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6911,11 +6909,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:contentPadding
+          @attr name SaafiApp.Droid.SaafiApp.Droid:contentPadding
         */
         public static final int CardView_contentPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#contentPaddingBottom}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#contentPaddingBottom}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6927,11 +6925,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:contentPaddingBottom
+          @attr name SaafiApp.Droid.SaafiApp.Droid:contentPaddingBottom
         */
         public static final int CardView_contentPaddingBottom = 12;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#contentPaddingLeft}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#contentPaddingLeft}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6943,11 +6941,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:contentPaddingLeft
+          @attr name SaafiApp.Droid.SaafiApp.Droid:contentPaddingLeft
         */
         public static final int CardView_contentPaddingLeft = 9;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#contentPaddingRight}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#contentPaddingRight}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6959,11 +6957,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:contentPaddingRight
+          @attr name SaafiApp.Droid.SaafiApp.Droid:contentPaddingRight
         */
         public static final int CardView_contentPaddingRight = 10;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#contentPaddingTop}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#contentPaddingTop}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6975,7 +6973,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:contentPaddingTop
+          @attr name SaafiApp.Droid.SaafiApp.Droid:contentPaddingTop
         */
         public static final int CardView_contentPaddingTop = 11;
         /** Attributes that can be used with a CollapsingToolbarLayout.
@@ -6984,22 +6982,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity SaafiApp.SaafiApp:collapsedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance SaafiApp.SaafiApp:collapsedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim SaafiApp.SaafiApp:contentScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity SaafiApp.SaafiApp:expandedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin SaafiApp.SaafiApp:expandedTitleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom SaafiApp.SaafiApp:expandedTitleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd SaafiApp.SaafiApp:expandedTitleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart SaafiApp.SaafiApp:expandedTitleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop SaafiApp.SaafiApp:expandedTitleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance SaafiApp.SaafiApp:expandedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration SaafiApp.SaafiApp:scrimAnimationDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger SaafiApp.SaafiApp:scrimVisibleHeightTrigger}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim SaafiApp.SaafiApp:statusBarScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_title SaafiApp.SaafiApp:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled SaafiApp.SaafiApp:titleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId SaafiApp.SaafiApp:toolbarId}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity SaafiApp.Droid.SaafiApp.Droid:collapsedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance SaafiApp.Droid.SaafiApp.Droid:collapsedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim SaafiApp.Droid.SaafiApp.Droid:contentScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity SaafiApp.Droid.SaafiApp.Droid:expandedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin SaafiApp.Droid.SaafiApp.Droid:expandedTitleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom SaafiApp.Droid.SaafiApp.Droid:expandedTitleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd SaafiApp.Droid.SaafiApp.Droid:expandedTitleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart SaafiApp.Droid.SaafiApp.Droid:expandedTitleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop SaafiApp.Droid.SaafiApp.Droid:expandedTitleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance SaafiApp.Droid.SaafiApp.Droid:expandedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration SaafiApp.Droid.SaafiApp.Droid:scrimAnimationDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger SaafiApp.Droid.SaafiApp.Droid:scrimVisibleHeightTrigger}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim SaafiApp.Droid.SaafiApp.Droid:statusBarScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_title SaafiApp.Droid.SaafiApp.Droid:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled SaafiApp.Droid.SaafiApp.Droid:titleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId SaafiApp.Droid.SaafiApp.Droid:toolbarId}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_collapsedTitleGravity
            @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -7025,7 +7023,7 @@ containing a value of this type.
             0x7f010109, 0x7f01010a, 0x7f01010b, 0x7f01010c
         };
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#collapsedTitleGravity}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#collapsedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7046,21 +7044,21 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name SaafiApp.SaafiApp:collapsedTitleGravity
+          @attr name SaafiApp.Droid.SaafiApp.Droid:collapsedTitleGravity
         */
         public static final int CollapsingToolbarLayout_collapsedTitleGravity = 13;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#collapsedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#collapsedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:collapsedTitleTextAppearance
+          @attr name SaafiApp.Droid.SaafiApp.Droid:collapsedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance = 7;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#contentScrim}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#contentScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7071,11 +7069,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:contentScrim
+          @attr name SaafiApp.Droid.SaafiApp.Droid:contentScrim
         */
         public static final int CollapsingToolbarLayout_contentScrim = 8;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#expandedTitleGravity}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#expandedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7096,11 +7094,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name SaafiApp.SaafiApp:expandedTitleGravity
+          @attr name SaafiApp.Droid.SaafiApp.Droid:expandedTitleGravity
         */
         public static final int CollapsingToolbarLayout_expandedTitleGravity = 14;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#expandedTitleMargin}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#expandedTitleMargin}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7112,11 +7110,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:expandedTitleMargin
+          @attr name SaafiApp.Droid.SaafiApp.Droid:expandedTitleMargin
         */
         public static final int CollapsingToolbarLayout_expandedTitleMargin = 1;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#expandedTitleMarginBottom}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#expandedTitleMarginBottom}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7128,11 +7126,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:expandedTitleMarginBottom
+          @attr name SaafiApp.Droid.SaafiApp.Droid:expandedTitleMarginBottom
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginBottom = 5;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#expandedTitleMarginEnd}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#expandedTitleMarginEnd}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7144,11 +7142,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:expandedTitleMarginEnd
+          @attr name SaafiApp.Droid.SaafiApp.Droid:expandedTitleMarginEnd
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginEnd = 4;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#expandedTitleMarginStart}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#expandedTitleMarginStart}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7160,11 +7158,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:expandedTitleMarginStart
+          @attr name SaafiApp.Droid.SaafiApp.Droid:expandedTitleMarginStart
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginStart = 2;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#expandedTitleMarginTop}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#expandedTitleMarginTop}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7176,21 +7174,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:expandedTitleMarginTop
+          @attr name SaafiApp.Droid.SaafiApp.Droid:expandedTitleMarginTop
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginTop = 3;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#expandedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#expandedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:expandedTitleTextAppearance
+          @attr name SaafiApp.Droid.SaafiApp.Droid:expandedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_expandedTitleTextAppearance = 6;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#scrimAnimationDuration}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#scrimAnimationDuration}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7200,11 +7198,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:scrimAnimationDuration
+          @attr name SaafiApp.Droid.SaafiApp.Droid:scrimAnimationDuration
         */
         public static final int CollapsingToolbarLayout_scrimAnimationDuration = 12;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#scrimVisibleHeightTrigger}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#scrimVisibleHeightTrigger}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7216,11 +7214,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:scrimVisibleHeightTrigger
+          @attr name SaafiApp.Droid.SaafiApp.Droid:scrimVisibleHeightTrigger
         */
         public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger = 11;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#statusBarScrim}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#statusBarScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7231,11 +7229,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:statusBarScrim
+          @attr name SaafiApp.Droid.SaafiApp.Droid:statusBarScrim
         */
         public static final int CollapsingToolbarLayout_statusBarScrim = 9;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#title}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#title}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7245,11 +7243,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:title
+          @attr name SaafiApp.Droid.SaafiApp.Droid:title
         */
         public static final int CollapsingToolbarLayout_title = 0;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#titleEnabled}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#titleEnabled}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7259,17 +7257,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:titleEnabled
+          @attr name SaafiApp.Droid.SaafiApp.Droid:titleEnabled
         */
         public static final int CollapsingToolbarLayout_titleEnabled = 15;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#toolbarId}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#toolbarId}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:toolbarId
+          @attr name SaafiApp.Droid.SaafiApp.Droid:toolbarId
         */
         public static final int CollapsingToolbarLayout_toolbarId = 10;
         /** Attributes that can be used with a CollapsingToolbarLayout_Layout.
@@ -7278,8 +7276,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode SaafiApp.SaafiApp:layout_collapseMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier SaafiApp.SaafiApp:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode SaafiApp.Droid.SaafiApp.Droid:layout_collapseMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier SaafiApp.Droid.SaafiApp.Droid:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_Layout_layout_collapseMode
            @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
@@ -7288,7 +7286,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01010d, 0x7f01010e
         };
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#layout_collapseMode}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#layout_collapseMode}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -7302,11 +7300,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>pin</code></td><td>1</td><td></td></tr>
 <tr><td><code>parallax</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name SaafiApp.SaafiApp:layout_collapseMode
+          @attr name SaafiApp.Droid.SaafiApp.Droid:layout_collapseMode
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseMode = 0;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#layout_collapseParallaxMultiplier}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#layout_collapseParallaxMultiplier}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -7316,7 +7314,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:layout_collapseParallaxMultiplier
+          @attr name SaafiApp.Droid.SaafiApp.Droid:layout_collapseParallaxMultiplier
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = 1;
         /** Attributes that can be used with a ColorStateListItem.
@@ -7325,7 +7323,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ColorStateListItem_alpha SaafiApp.SaafiApp:alpha}</code></td><td></td></tr>
+           <tr><td><code>{@link #ColorStateListItem_alpha SaafiApp.Droid.SaafiApp.Droid:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
            </table>
@@ -7337,7 +7335,7 @@ containing a value of this type.
             0x010101a5, 0x0101031f, 0x7f0100b0
         };
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#alpha}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#alpha}
           attribute's value can be found in the {@link #ColorStateListItem} array.
 
 
@@ -7347,7 +7345,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:alpha
+          @attr name SaafiApp.Droid.SaafiApp.Droid:alpha
         */
         public static final int ColorStateListItem_alpha = 2;
         /**
@@ -7369,8 +7367,8 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint SaafiApp.SaafiApp:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode SaafiApp.SaafiApp:buttonTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint SaafiApp.Droid.SaafiApp.Droid:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode SaafiApp.Droid.SaafiApp.Droid:buttonTintMode}</code></td><td></td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
@@ -7386,7 +7384,7 @@ containing a value of this type.
         */
         public static final int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#buttonTint}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -7397,11 +7395,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:buttonTint
+          @attr name SaafiApp.Droid.SaafiApp.Droid:buttonTint
         */
         public static final int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#buttonTintMode}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#buttonTintMode}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -7417,7 +7415,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name SaafiApp.SaafiApp:buttonTintMode
+          @attr name SaafiApp.Droid.SaafiApp.Droid:buttonTintMode
         */
         public static final int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a CoordinatorLayout.
@@ -7426,8 +7424,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CoordinatorLayout_keylines SaafiApp.SaafiApp:keylines}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground SaafiApp.SaafiApp:statusBarBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_keylines SaafiApp.Droid.SaafiApp.Droid:keylines}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground SaafiApp.Droid.SaafiApp.Droid:statusBarBackground}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_keylines
            @see #CoordinatorLayout_statusBarBackground
@@ -7436,23 +7434,23 @@ containing a value of this type.
             0x7f01010f, 0x7f010110
         };
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#keylines}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#keylines}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:keylines
+          @attr name SaafiApp.Droid.SaafiApp.Droid:keylines
         */
         public static final int CoordinatorLayout_keylines = 0;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#statusBarBackground}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#statusBarBackground}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:statusBarBackground
+          @attr name SaafiApp.Droid.SaafiApp.Droid:statusBarBackground
         */
         public static final int CoordinatorLayout_statusBarBackground = 1;
         /** Attributes that can be used with a CoordinatorLayout_Layout.
@@ -7462,12 +7460,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor SaafiApp.SaafiApp:layout_anchor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity SaafiApp.SaafiApp:layout_anchorGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior SaafiApp.SaafiApp:layout_behavior}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges SaafiApp.SaafiApp:layout_dodgeInsetEdges}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge SaafiApp.SaafiApp:layout_insetEdge}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline SaafiApp.SaafiApp:layout_keyline}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor SaafiApp.Droid.SaafiApp.Droid:layout_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity SaafiApp.Droid.SaafiApp.Droid:layout_anchorGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior SaafiApp.Droid.SaafiApp.Droid:layout_behavior}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges SaafiApp.Droid.SaafiApp.Droid:layout_dodgeInsetEdges}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge SaafiApp.Droid.SaafiApp.Droid:layout_insetEdge}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline SaafiApp.Droid.SaafiApp.Droid:layout_keyline}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_Layout_android_layout_gravity
            @see #CoordinatorLayout_Layout_layout_anchor
@@ -7488,17 +7486,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int CoordinatorLayout_Layout_android_layout_gravity = 0;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#layout_anchor}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#layout_anchor}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:layout_anchor
+          @attr name SaafiApp.Droid.SaafiApp.Droid:layout_anchor
         */
         public static final int CoordinatorLayout_Layout_layout_anchor = 2;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#layout_anchorGravity}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#layout_anchorGravity}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7523,11 +7521,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name SaafiApp.SaafiApp:layout_anchorGravity
+          @attr name SaafiApp.Droid.SaafiApp.Droid:layout_anchorGravity
         */
         public static final int CoordinatorLayout_Layout_layout_anchorGravity = 4;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#layout_behavior}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#layout_behavior}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7537,11 +7535,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:layout_behavior
+          @attr name SaafiApp.Droid.SaafiApp.Droid:layout_behavior
         */
         public static final int CoordinatorLayout_Layout_layout_behavior = 1;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#layout_dodgeInsetEdges}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#layout_dodgeInsetEdges}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7560,11 +7558,11 @@ containing a value of this type.
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 <tr><td><code>all</code></td><td>0x77</td><td></td></tr>
 </table>
-          @attr name SaafiApp.SaafiApp:layout_dodgeInsetEdges
+          @attr name SaafiApp.Droid.SaafiApp.Droid:layout_dodgeInsetEdges
         */
         public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges = 6;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#layout_insetEdge}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#layout_insetEdge}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7582,11 +7580,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name SaafiApp.SaafiApp:layout_insetEdge
+          @attr name SaafiApp.Droid.SaafiApp.Droid:layout_insetEdge
         */
         public static final int CoordinatorLayout_Layout_layout_insetEdge = 5;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#layout_keyline}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#layout_keyline}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7596,7 +7594,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:layout_keyline
+          @attr name SaafiApp.Droid.SaafiApp.Droid:layout_keyline
         */
         public static final int CoordinatorLayout_Layout_layout_keyline = 3;
         /** Attributes that can be used with a DesignTheme.
@@ -7605,9 +7603,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme SaafiApp.SaafiApp:bottomSheetDialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetStyle SaafiApp.SaafiApp:bottomSheetStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_textColorError SaafiApp.SaafiApp:textColorError}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme SaafiApp.Droid.SaafiApp.Droid:bottomSheetDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetStyle SaafiApp.Droid.SaafiApp.Droid:bottomSheetStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_textColorError SaafiApp.Droid.SaafiApp.Droid:textColorError}</code></td><td></td></tr>
            </table>
            @see #DesignTheme_bottomSheetDialogTheme
            @see #DesignTheme_bottomSheetStyle
@@ -7617,27 +7615,27 @@ containing a value of this type.
             0x7f010117, 0x7f010118, 0x7f010119
         };
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#bottomSheetDialogTheme}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#bottomSheetDialogTheme}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:bottomSheetDialogTheme
+          @attr name SaafiApp.Droid.SaafiApp.Droid:bottomSheetDialogTheme
         */
         public static final int DesignTheme_bottomSheetDialogTheme = 0;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#bottomSheetStyle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#bottomSheetStyle}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:bottomSheetStyle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:bottomSheetStyle
         */
         public static final int DesignTheme_bottomSheetStyle = 1;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#textColorError}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#textColorError}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
@@ -7648,7 +7646,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:textColorError
+          @attr name SaafiApp.Droid.SaafiApp.Droid:textColorError
         */
         public static final int DesignTheme_textColorError = 2;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -7657,14 +7655,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength SaafiApp.SaafiApp:arrowHeadLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength SaafiApp.SaafiApp:arrowShaftLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength SaafiApp.SaafiApp:barLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color SaafiApp.SaafiApp:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize SaafiApp.SaafiApp:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars SaafiApp.SaafiApp:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars SaafiApp.SaafiApp:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness SaafiApp.SaafiApp:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength SaafiApp.Droid.SaafiApp.Droid:arrowHeadLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength SaafiApp.Droid.SaafiApp.Droid:arrowShaftLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength SaafiApp.Droid.SaafiApp.Droid:barLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color SaafiApp.Droid.SaafiApp.Droid:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize SaafiApp.Droid.SaafiApp.Droid:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars SaafiApp.Droid.SaafiApp.Droid:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars SaafiApp.Droid.SaafiApp.Droid:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness SaafiApp.Droid.SaafiApp.Droid:thickness}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -7680,7 +7678,7 @@ containing a value of this type.
             0x7f0100b7, 0x7f0100b8, 0x7f0100b9, 0x7f0100ba
         };
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#arrowHeadLength}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7692,11 +7690,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:arrowHeadLength
+          @attr name SaafiApp.Droid.SaafiApp.Droid:arrowHeadLength
         */
         public static final int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#arrowShaftLength}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#arrowShaftLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7708,11 +7706,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:arrowShaftLength
+          @attr name SaafiApp.Droid.SaafiApp.Droid:arrowShaftLength
         */
         public static final int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#barLength}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#barLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7724,11 +7722,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:barLength
+          @attr name SaafiApp.Droid.SaafiApp.Droid:barLength
         */
         public static final int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#color}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7739,11 +7737,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:color
+          @attr name SaafiApp.Droid.SaafiApp.Droid:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7755,11 +7753,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:drawableSize
+          @attr name SaafiApp.Droid.SaafiApp.Droid:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7771,11 +7769,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:gapBetweenBars
+          @attr name SaafiApp.Droid.SaafiApp.Droid:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7785,11 +7783,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:spinBars
+          @attr name SaafiApp.Droid.SaafiApp.Droid:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#thickness}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7801,7 +7799,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:thickness
+          @attr name SaafiApp.Droid.SaafiApp.Droid:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a FloatingActionButton.
@@ -7810,14 +7808,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTint SaafiApp.SaafiApp:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode SaafiApp.SaafiApp:backgroundTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_borderWidth SaafiApp.SaafiApp:borderWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_elevation SaafiApp.SaafiApp:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fabSize SaafiApp.SaafiApp:fabSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ SaafiApp.SaafiApp:pressedTranslationZ}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_rippleColor SaafiApp.SaafiApp:rippleColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_useCompatPadding SaafiApp.SaafiApp:useCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTint SaafiApp.Droid.SaafiApp.Droid:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode SaafiApp.Droid.SaafiApp.Droid:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_borderWidth SaafiApp.Droid.SaafiApp.Droid:borderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_elevation SaafiApp.Droid.SaafiApp.Droid:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fabSize SaafiApp.Droid.SaafiApp.Droid:fabSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ SaafiApp.Droid.SaafiApp.Droid:pressedTranslationZ}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_rippleColor SaafiApp.Droid.SaafiApp.Droid:rippleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_useCompatPadding SaafiApp.Droid.SaafiApp.Droid:useCompatPadding}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_backgroundTint
            @see #FloatingActionButton_backgroundTintMode
@@ -7833,7 +7831,7 @@ containing a value of this type.
             0x7f01011b, 0x7f01011c, 0x7f01011d, 0x7f01011e
         };
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#backgroundTint}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7844,11 +7842,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:backgroundTint
+          @attr name SaafiApp.Droid.SaafiApp.Droid:backgroundTint
         */
         public static final int FloatingActionButton_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7864,11 +7862,11 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name SaafiApp.SaafiApp:backgroundTintMode
+          @attr name SaafiApp.Droid.SaafiApp.Droid:backgroundTintMode
         */
         public static final int FloatingActionButton_backgroundTintMode = 2;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#borderWidth}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#borderWidth}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7880,11 +7878,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:borderWidth
+          @attr name SaafiApp.Droid.SaafiApp.Droid:borderWidth
         */
         public static final int FloatingActionButton_borderWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#elevation}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#elevation}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7896,11 +7894,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:elevation
+          @attr name SaafiApp.Droid.SaafiApp.Droid:elevation
         */
         public static final int FloatingActionButton_elevation = 0;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#fabSize}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#fabSize}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7914,11 +7912,11 @@ containing a value of this type.
 <tr><td><code>normal</code></td><td>0</td><td></td></tr>
 <tr><td><code>mini</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name SaafiApp.SaafiApp:fabSize
+          @attr name SaafiApp.Droid.SaafiApp.Droid:fabSize
         */
         public static final int FloatingActionButton_fabSize = 4;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#pressedTranslationZ}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#pressedTranslationZ}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7930,11 +7928,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:pressedTranslationZ
+          @attr name SaafiApp.Droid.SaafiApp.Droid:pressedTranslationZ
         */
         public static final int FloatingActionButton_pressedTranslationZ = 5;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#rippleColor}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#rippleColor}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7945,11 +7943,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:rippleColor
+          @attr name SaafiApp.Droid.SaafiApp.Droid:rippleColor
         */
         public static final int FloatingActionButton_rippleColor = 3;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#useCompatPadding}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#useCompatPadding}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7959,7 +7957,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:useCompatPadding
+          @attr name SaafiApp.Droid.SaafiApp.Droid:useCompatPadding
         */
         public static final int FloatingActionButton_useCompatPadding = 7;
         /** Attributes that can be used with a FloatingActionButton_Behavior_Layout.
@@ -7968,7 +7966,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide SaafiApp.SaafiApp:behavior_autoHide}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide SaafiApp.Droid.SaafiApp.Droid:behavior_autoHide}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
          */
@@ -7976,7 +7974,7 @@ containing a value of this type.
             0x7f01011f
         };
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#behavior_autoHide}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#behavior_autoHide}
           attribute's value can be found in the {@link #FloatingActionButton_Behavior_Layout} array.
 
 
@@ -7986,7 +7984,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:behavior_autoHide
+          @attr name SaafiApp.Droid.SaafiApp.Droid:behavior_autoHide
         */
         public static final int FloatingActionButton_Behavior_Layout_behavior_autoHide = 0;
         /** Attributes that can be used with a ForegroundLinearLayout.
@@ -7997,7 +7995,7 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding SaafiApp.SaafiApp:foregroundInsidePadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding SaafiApp.Droid.SaafiApp.Droid:foregroundInsidePadding}</code></td><td></td></tr>
            </table>
            @see #ForegroundLinearLayout_android_foreground
            @see #ForegroundLinearLayout_android_foregroundGravity
@@ -8019,7 +8017,7 @@ containing a value of this type.
         */
         public static final int ForegroundLinearLayout_android_foregroundGravity = 1;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#foregroundInsidePadding}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#foregroundInsidePadding}
           attribute's value can be found in the {@link #ForegroundLinearLayout} array.
 
 
@@ -8029,7 +8027,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:foregroundInsidePadding
+          @attr name SaafiApp.Droid.SaafiApp.Droid:foregroundInsidePadding
         */
         public static final int ForegroundLinearLayout_foregroundInsidePadding = 2;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -8043,10 +8041,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider SaafiApp.SaafiApp:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding SaafiApp.SaafiApp:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild SaafiApp.SaafiApp:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers SaafiApp.SaafiApp:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider SaafiApp.Droid.SaafiApp.Droid:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding SaafiApp.Droid.SaafiApp.Droid:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild SaafiApp.Droid.SaafiApp.Droid:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers SaafiApp.Droid.SaafiApp.Droid:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -8094,17 +8092,17 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#divider}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:divider
+          @attr name SaafiApp.Droid.SaafiApp.Droid:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -8116,11 +8114,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:dividerPadding
+          @attr name SaafiApp.Droid.SaafiApp.Droid:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -8130,11 +8128,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:measureWithLargestChild
+          @attr name SaafiApp.Droid.SaafiApp.Droid:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -8149,7 +8147,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name SaafiApp.SaafiApp:showDividers
+          @attr name SaafiApp.Droid.SaafiApp.Droid:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -8288,9 +8286,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout SaafiApp.SaafiApp:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass SaafiApp.SaafiApp:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass SaafiApp.SaafiApp:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout SaafiApp.Droid.SaafiApp.Droid:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass SaafiApp.Droid.SaafiApp.Droid:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass SaafiApp.Droid.SaafiApp.Droid:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -8304,7 +8302,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction SaafiApp.SaafiApp:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction SaafiApp.Droid.SaafiApp.Droid:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -8332,17 +8330,17 @@ containing a value of this type.
             0x7f0100c1
         };
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:actionLayout
+          @attr name SaafiApp.Droid.SaafiApp.Droid:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8352,11 +8350,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:actionProviderClass
+          @attr name SaafiApp.Droid.SaafiApp.Droid:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8366,7 +8364,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:actionViewClass
+          @attr name SaafiApp.Droid.SaafiApp.Droid:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -8448,7 +8446,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8464,7 +8462,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name SaafiApp.SaafiApp:showAsAction
+          @attr name SaafiApp.Droid.SaafiApp.Droid:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -8480,8 +8478,8 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing SaafiApp.SaafiApp:preserveIconSpacing}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_subMenuArrow SaafiApp.SaafiApp:subMenuArrow}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing SaafiApp.Droid.SaafiApp.Droid:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_subMenuArrow SaafiApp.Droid.SaafiApp.Droid:subMenuArrow}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -8541,7 +8539,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -8551,17 +8549,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:preserveIconSpacing
+          @attr name SaafiApp.Droid.SaafiApp.Droid:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#subMenuArrow}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#subMenuArrow}
           attribute's value can be found in the {@link #MenuView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:subMenuArrow
+          @attr name SaafiApp.Droid.SaafiApp.Droid:subMenuArrow
         */
         public static final int MenuView_subMenuArrow = 8;
         /** Attributes that can be used with a MvxBinding.
@@ -8570,8 +8568,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MvxBinding_MvxBind SaafiApp.SaafiApp:MvxBind}</code></td><td></td></tr>
-           <tr><td><code>{@link #MvxBinding_MvxLang SaafiApp.SaafiApp:MvxLang}</code></td><td></td></tr>
+           <tr><td><code>{@link #MvxBinding_MvxBind SaafiApp.Droid.SaafiApp.Droid:MvxBind}</code></td><td></td></tr>
+           <tr><td><code>{@link #MvxBinding_MvxLang SaafiApp.Droid.SaafiApp.Droid:MvxLang}</code></td><td></td></tr>
            </table>
            @see #MvxBinding_MvxBind
            @see #MvxBinding_MvxLang
@@ -8580,7 +8578,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010155, 0x7f010156
         };
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#MvxBind}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#MvxBind}
           attribute's value can be found in the {@link #MvxBinding} array.
 
 
@@ -8590,11 +8588,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:MvxBind
+          @attr name SaafiApp.Droid.SaafiApp.Droid:MvxBind
         */
         public static final int MvxBinding_MvxBind = 0;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#MvxLang}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#MvxLang}
           attribute's value can be found in the {@link #MvxBinding} array.
 
 
@@ -8604,7 +8602,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:MvxLang
+          @attr name SaafiApp.Droid.SaafiApp.Droid:MvxLang
         */
         public static final int MvxBinding_MvxLang = 1;
         /** Attributes that can be used with a MvxControl.
@@ -8613,7 +8611,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MvxControl_MvxTemplate SaafiApp.SaafiApp:MvxTemplate}</code></td><td></td></tr>
+           <tr><td><code>{@link #MvxControl_MvxTemplate SaafiApp.Droid.SaafiApp.Droid:MvxTemplate}</code></td><td></td></tr>
            </table>
            @see #MvxControl_MvxTemplate
          */
@@ -8621,7 +8619,7 @@ containing a value of this type.
             0x7f010157
         };
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#MvxTemplate}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#MvxTemplate}
           attribute's value can be found in the {@link #MvxControl} array.
 
 
@@ -8631,7 +8629,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:MvxTemplate
+          @attr name SaafiApp.Droid.SaafiApp.Droid:MvxTemplate
         */
         public static final int MvxControl_MvxTemplate = 0;
         /** Attributes that can be used with a MvxExpandableListView.
@@ -8640,7 +8638,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MvxExpandableListView_MvxGroupItemTemplate SaafiApp.SaafiApp:MvxGroupItemTemplate}</code></td><td></td></tr>
+           <tr><td><code>{@link #MvxExpandableListView_MvxGroupItemTemplate SaafiApp.Droid.SaafiApp.Droid:MvxGroupItemTemplate}</code></td><td></td></tr>
            </table>
            @see #MvxExpandableListView_MvxGroupItemTemplate
          */
@@ -8648,7 +8646,7 @@ containing a value of this type.
             0x7f01015a
         };
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#MvxGroupItemTemplate}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#MvxGroupItemTemplate}
           attribute's value can be found in the {@link #MvxExpandableListView} array.
 
 
@@ -8658,7 +8656,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:MvxGroupItemTemplate
+          @attr name SaafiApp.Droid.SaafiApp.Droid:MvxGroupItemTemplate
         */
         public static final int MvxExpandableListView_MvxGroupItemTemplate = 0;
         /** Attributes that can be used with a MvxImageView.
@@ -8667,7 +8665,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MvxImageView_MvxSource SaafiApp.SaafiApp:MvxSource}</code></td><td></td></tr>
+           <tr><td><code>{@link #MvxImageView_MvxSource SaafiApp.Droid.SaafiApp.Droid:MvxSource}</code></td><td></td></tr>
            </table>
            @see #MvxImageView_MvxSource
          */
@@ -8675,7 +8673,7 @@ containing a value of this type.
             0x7f01015b
         };
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#MvxSource}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#MvxSource}
           attribute's value can be found in the {@link #MvxImageView} array.
 
 
@@ -8685,7 +8683,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:MvxSource
+          @attr name SaafiApp.Droid.SaafiApp.Droid:MvxSource
         */
         public static final int MvxImageView_MvxSource = 0;
         /** Attributes that can be used with a MvxListView.
@@ -8694,8 +8692,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MvxListView_MvxDropDownItemTemplate SaafiApp.SaafiApp:MvxDropDownItemTemplate}</code></td><td></td></tr>
-           <tr><td><code>{@link #MvxListView_MvxItemTemplate SaafiApp.SaafiApp:MvxItemTemplate}</code></td><td></td></tr>
+           <tr><td><code>{@link #MvxListView_MvxDropDownItemTemplate SaafiApp.Droid.SaafiApp.Droid:MvxDropDownItemTemplate}</code></td><td></td></tr>
+           <tr><td><code>{@link #MvxListView_MvxItemTemplate SaafiApp.Droid.SaafiApp.Droid:MvxItemTemplate}</code></td><td></td></tr>
            </table>
            @see #MvxListView_MvxDropDownItemTemplate
            @see #MvxListView_MvxItemTemplate
@@ -8704,7 +8702,7 @@ containing a value of this type.
             0x7f010158, 0x7f010159
         };
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#MvxDropDownItemTemplate}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#MvxDropDownItemTemplate}
           attribute's value can be found in the {@link #MvxListView} array.
 
 
@@ -8714,11 +8712,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:MvxDropDownItemTemplate
+          @attr name SaafiApp.Droid.SaafiApp.Droid:MvxDropDownItemTemplate
         */
         public static final int MvxListView_MvxDropDownItemTemplate = 1;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#MvxItemTemplate}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#MvxItemTemplate}
           attribute's value can be found in the {@link #MvxListView} array.
 
 
@@ -8728,7 +8726,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:MvxItemTemplate
+          @attr name SaafiApp.Droid.SaafiApp.Droid:MvxItemTemplate
         */
         public static final int MvxListView_MvxItemTemplate = 0;
         /** Attributes that can be used with a NavigationView.
@@ -8740,13 +8738,13 @@ containing a value of this type.
            <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_elevation SaafiApp.SaafiApp:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_headerLayout SaafiApp.SaafiApp:headerLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemBackground SaafiApp.SaafiApp:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemIconTint SaafiApp.SaafiApp:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextAppearance SaafiApp.SaafiApp:itemTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextColor SaafiApp.SaafiApp:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_menu SaafiApp.SaafiApp:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_elevation SaafiApp.Droid.SaafiApp.Droid:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_headerLayout SaafiApp.Droid.SaafiApp.Droid:headerLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemBackground SaafiApp.Droid.SaafiApp.Droid:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemIconTint SaafiApp.Droid.SaafiApp.Droid:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextAppearance SaafiApp.Droid.SaafiApp.Droid:itemTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextColor SaafiApp.Droid.SaafiApp.Droid:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_menu SaafiApp.Droid.SaafiApp.Droid:menu}</code></td><td></td></tr>
            </table>
            @see #NavigationView_android_background
            @see #NavigationView_android_fitsSystemWindows
@@ -8783,7 +8781,7 @@ containing a value of this type.
         */
         public static final int NavigationView_android_maxWidth = 2;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#elevation}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#elevation}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -8795,31 +8793,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:elevation
+          @attr name SaafiApp.Droid.SaafiApp.Droid:elevation
         */
         public static final int NavigationView_elevation = 3;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#headerLayout}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#headerLayout}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:headerLayout
+          @attr name SaafiApp.Droid.SaafiApp.Droid:headerLayout
         */
         public static final int NavigationView_headerLayout = 9;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#itemBackground}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:itemBackground
+          @attr name SaafiApp.Droid.SaafiApp.Droid:itemBackground
         */
         public static final int NavigationView_itemBackground = 7;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#itemIconTint}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -8830,21 +8828,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:itemIconTint
+          @attr name SaafiApp.Droid.SaafiApp.Droid:itemIconTint
         */
         public static final int NavigationView_itemIconTint = 5;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#itemTextAppearance}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#itemTextAppearance}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:itemTextAppearance
+          @attr name SaafiApp.Droid.SaafiApp.Droid:itemTextAppearance
         */
         public static final int NavigationView_itemTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#itemTextColor}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -8855,17 +8853,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:itemTextColor
+          @attr name SaafiApp.Droid.SaafiApp.Droid:itemTextColor
         */
         public static final int NavigationView_itemTextColor = 6;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#menu}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#menu}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:menu
+          @attr name SaafiApp.Droid.SaafiApp.Droid:menu
         */
         public static final int NavigationView_menu = 4;
         /** Attributes that can be used with a PopupWindow.
@@ -8876,7 +8874,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor SaafiApp.SaafiApp:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor SaafiApp.Droid.SaafiApp.Droid:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupAnimationStyle
            @see #PopupWindow_android_popupBackground
@@ -8898,7 +8896,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -8908,7 +8906,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:overlapAnchor
+          @attr name SaafiApp.Droid.SaafiApp.Droid:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 2;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -8917,7 +8915,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor SaafiApp.SaafiApp:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor SaafiApp.Droid.SaafiApp.Droid:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -8925,7 +8923,7 @@ containing a value of this type.
             0x7f0100c5
         };
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -8935,7 +8933,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:state_above_anchor
+          @attr name SaafiApp.Droid.SaafiApp.Droid:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a RecycleListView.
@@ -8944,8 +8942,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons SaafiApp.SaafiApp:paddingBottomNoButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle SaafiApp.SaafiApp:paddingTopNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons SaafiApp.Droid.SaafiApp.Droid:paddingBottomNoButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle SaafiApp.Droid.SaafiApp.Droid:paddingTopNoTitle}</code></td><td></td></tr>
            </table>
            @see #RecycleListView_paddingBottomNoButtons
            @see #RecycleListView_paddingTopNoTitle
@@ -8954,7 +8952,7 @@ containing a value of this type.
             0x7f0100c6, 0x7f0100c7
         };
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#paddingBottomNoButtons}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#paddingBottomNoButtons}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -8966,11 +8964,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:paddingBottomNoButtons
+          @attr name SaafiApp.Droid.SaafiApp.Droid:paddingBottomNoButtons
         */
         public static final int RecycleListView_paddingBottomNoButtons = 0;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#paddingTopNoTitle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#paddingTopNoTitle}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -8982,7 +8980,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:paddingTopNoTitle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:paddingTopNoTitle
         */
         public static final int RecycleListView_paddingTopNoTitle = 1;
         /** Attributes that can be used with a RecyclerView.
@@ -8993,10 +8991,10 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
            <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_layoutManager SaafiApp.SaafiApp:layoutManager}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_reverseLayout SaafiApp.SaafiApp:reverseLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_spanCount SaafiApp.SaafiApp:spanCount}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_stackFromEnd SaafiApp.SaafiApp:stackFromEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_layoutManager SaafiApp.Droid.SaafiApp.Droid:layoutManager}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_reverseLayout SaafiApp.Droid.SaafiApp.Droid:reverseLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_spanCount SaafiApp.Droid.SaafiApp.Droid:spanCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_stackFromEnd SaafiApp.Droid.SaafiApp.Droid:stackFromEnd}</code></td><td></td></tr>
            </table>
            @see #RecyclerView_android_descendantFocusability
            @see #RecyclerView_android_orientation
@@ -9022,7 +9020,7 @@ containing a value of this type.
         */
         public static final int RecyclerView_android_orientation = 0;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#layoutManager}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#layoutManager}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -9032,11 +9030,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:layoutManager
+          @attr name SaafiApp.Droid.SaafiApp.Droid:layoutManager
         */
         public static final int RecyclerView_layoutManager = 2;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#reverseLayout}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#reverseLayout}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -9046,11 +9044,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:reverseLayout
+          @attr name SaafiApp.Droid.SaafiApp.Droid:reverseLayout
         */
         public static final int RecyclerView_reverseLayout = 4;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#spanCount}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#spanCount}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -9060,11 +9058,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:spanCount
+          @attr name SaafiApp.Droid.SaafiApp.Droid:spanCount
         */
         public static final int RecyclerView_spanCount = 3;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#stackFromEnd}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#stackFromEnd}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -9074,7 +9072,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:stackFromEnd
+          @attr name SaafiApp.Droid.SaafiApp.Droid:stackFromEnd
         */
         public static final int RecyclerView_stackFromEnd = 5;
         /** Attributes that can be used with a ScrimInsetsFrameLayout.
@@ -9083,7 +9081,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground SaafiApp.SaafiApp:insetForeground}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground SaafiApp.Droid.SaafiApp.Droid:insetForeground}</code></td><td></td></tr>
            </table>
            @see #ScrimInsetsFrameLayout_insetForeground
          */
@@ -9091,7 +9089,7 @@ containing a value of this type.
             0x7f010127
         };
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#insetForeground}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#insetForeground}
           attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
 
 
@@ -9099,7 +9097,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name SaafiApp.SaafiApp:insetForeground
+          @attr name SaafiApp.Droid.SaafiApp.Droid:insetForeground
         */
         public static final int ScrimInsetsFrameLayout_insetForeground = 0;
         /** Attributes that can be used with a ScrollingViewBehavior_Layout.
@@ -9108,7 +9106,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop SaafiApp.SaafiApp:behavior_overlapTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop SaafiApp.Droid.SaafiApp.Droid:behavior_overlapTop}</code></td><td></td></tr>
            </table>
            @see #ScrollingViewBehavior_Layout_behavior_overlapTop
          */
@@ -9116,7 +9114,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010128
         };
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#behavior_overlapTop}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#behavior_overlapTop}
           attribute's value can be found in the {@link #ScrollingViewBehavior_Layout} array.
 
 
@@ -9128,7 +9126,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:behavior_overlapTop
+          @attr name SaafiApp.Droid.SaafiApp.Droid:behavior_overlapTop
         */
         public static final int ScrollingViewBehavior_Layout_behavior_overlapTop = 0;
         /** Attributes that can be used with a SearchView.
@@ -9141,19 +9139,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon SaafiApp.SaafiApp:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon SaafiApp.SaafiApp:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint SaafiApp.SaafiApp:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon SaafiApp.SaafiApp:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault SaafiApp.SaafiApp:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout SaafiApp.SaafiApp:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground SaafiApp.SaafiApp:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint SaafiApp.SaafiApp:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon SaafiApp.SaafiApp:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon SaafiApp.SaafiApp:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground SaafiApp.SaafiApp:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout SaafiApp.SaafiApp:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon SaafiApp.SaafiApp:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon SaafiApp.Droid.SaafiApp.Droid:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon SaafiApp.Droid.SaafiApp.Droid:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint SaafiApp.Droid.SaafiApp.Droid:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon SaafiApp.Droid.SaafiApp.Droid:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault SaafiApp.Droid.SaafiApp.Droid:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout SaafiApp.Droid.SaafiApp.Droid:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground SaafiApp.Droid.SaafiApp.Droid:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint SaafiApp.Droid.SaafiApp.Droid:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon SaafiApp.Droid.SaafiApp.Droid:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon SaafiApp.Droid.SaafiApp.Droid:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground SaafiApp.Droid.SaafiApp.Droid:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout SaafiApp.Droid.SaafiApp.Droid:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon SaafiApp.Droid.SaafiApp.Droid:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -9205,27 +9203,27 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:closeIcon
+          @attr name SaafiApp.Droid.SaafiApp.Droid:closeIcon
         */
         public static final int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:commitIcon
+          @attr name SaafiApp.Droid.SaafiApp.Droid:commitIcon
         */
         public static final int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -9235,21 +9233,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:defaultQueryHint
+          @attr name SaafiApp.Droid.SaafiApp.Droid:defaultQueryHint
         */
         public static final int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:goIcon
+          @attr name SaafiApp.Droid.SaafiApp.Droid:goIcon
         */
         public static final int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -9259,31 +9257,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:iconifiedByDefault
+          @attr name SaafiApp.Droid.SaafiApp.Droid:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#layout}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:layout
+          @attr name SaafiApp.Droid.SaafiApp.Droid:layout
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:queryBackground
+          @attr name SaafiApp.Droid.SaafiApp.Droid:queryBackground
         */
         public static final int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -9293,57 +9291,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:queryHint
+          @attr name SaafiApp.Droid.SaafiApp.Droid:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:searchHintIcon
+          @attr name SaafiApp.Droid.SaafiApp.Droid:searchHintIcon
         */
         public static final int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:searchIcon
+          @attr name SaafiApp.Droid.SaafiApp.Droid:searchIcon
         */
         public static final int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:submitBackground
+          @attr name SaafiApp.Droid.SaafiApp.Droid:submitBackground
         */
         public static final int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:suggestionRowLayout
+          @attr name SaafiApp.Droid.SaafiApp.Droid:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:voiceIcon
+          @attr name SaafiApp.Droid.SaafiApp.Droid:voiceIcon
         */
         public static final int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a SnackbarLayout.
@@ -9353,8 +9351,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_elevation SaafiApp.SaafiApp:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth SaafiApp.SaafiApp:maxActionInlineWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_elevation SaafiApp.Droid.SaafiApp.Droid:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth SaafiApp.Droid.SaafiApp.Droid:maxActionInlineWidth}</code></td><td></td></tr>
            </table>
            @see #SnackbarLayout_android_maxWidth
            @see #SnackbarLayout_elevation
@@ -9370,7 +9368,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SnackbarLayout_android_maxWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#elevation}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#elevation}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -9382,11 +9380,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:elevation
+          @attr name SaafiApp.Droid.SaafiApp.Droid:elevation
         */
         public static final int SnackbarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#maxActionInlineWidth}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#maxActionInlineWidth}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -9398,7 +9396,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:maxActionInlineWidth
+          @attr name SaafiApp.Droid.SaafiApp.Droid:maxActionInlineWidth
         */
         public static final int SnackbarLayout_maxActionInlineWidth = 2;
         /** Attributes that can be used with a Spinner.
@@ -9411,7 +9409,7 @@ containing a value of this type.
            <tr><td><code>{@link #Spinner_android_entries android:entries}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme SaafiApp.SaafiApp:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme SaafiApp.Droid.SaafiApp.Droid:popupTheme}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_entries
@@ -9448,13 +9446,13 @@ containing a value of this type.
         */
         public static final int Spinner_android_prompt = 2;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:popupTheme
+          @attr name SaafiApp.Droid.SaafiApp.Droid:popupTheme
         */
         public static final int Spinner_popupTheme = 4;
         /** Attributes that can be used with a SwitchCompat.
@@ -9466,17 +9464,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText SaafiApp.SaafiApp:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack SaafiApp.SaafiApp:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth SaafiApp.SaafiApp:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding SaafiApp.SaafiApp:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance SaafiApp.SaafiApp:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding SaafiApp.SaafiApp:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTint SaafiApp.SaafiApp:thumbTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTintMode SaafiApp.SaafiApp:thumbTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track SaafiApp.SaafiApp:track}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTint SaafiApp.SaafiApp:trackTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTintMode SaafiApp.SaafiApp:trackTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText SaafiApp.Droid.SaafiApp.Droid:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack SaafiApp.Droid.SaafiApp.Droid:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth SaafiApp.Droid.SaafiApp.Droid:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding SaafiApp.Droid.SaafiApp.Droid:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance SaafiApp.Droid.SaafiApp.Droid:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding SaafiApp.Droid.SaafiApp.Droid:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTint SaafiApp.Droid.SaafiApp.Droid:thumbTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTintMode SaafiApp.Droid.SaafiApp.Droid:thumbTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track SaafiApp.Droid.SaafiApp.Droid:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTint SaafiApp.Droid.SaafiApp.Droid:trackTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTintMode SaafiApp.Droid.SaafiApp.Droid:trackTintMode}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -9518,7 +9516,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#showText}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9528,11 +9526,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:showText
+          @attr name SaafiApp.Droid.SaafiApp.Droid:showText
         */
         public static final int SwitchCompat_showText = 13;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9542,11 +9540,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:splitTrack
+          @attr name SaafiApp.Droid.SaafiApp.Droid:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 12;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9558,11 +9556,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:switchMinWidth
+          @attr name SaafiApp.Droid.SaafiApp.Droid:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 10;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9574,21 +9572,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:switchPadding
+          @attr name SaafiApp.Droid.SaafiApp.Droid:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 11;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:switchTextAppearance
+          @attr name SaafiApp.Droid.SaafiApp.Droid:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9600,11 +9598,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:thumbTextPadding
+          @attr name SaafiApp.Droid.SaafiApp.Droid:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#thumbTint}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#thumbTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9615,11 +9613,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:thumbTint
+          @attr name SaafiApp.Droid.SaafiApp.Droid:thumbTint
         */
         public static final int SwitchCompat_thumbTint = 3;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#thumbTintMode}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#thumbTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9636,21 +9634,21 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name SaafiApp.SaafiApp:thumbTintMode
+          @attr name SaafiApp.Droid.SaafiApp.Droid:thumbTintMode
         */
         public static final int SwitchCompat_thumbTintMode = 4;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#track}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:track
+          @attr name SaafiApp.Droid.SaafiApp.Droid:track
         */
         public static final int SwitchCompat_track = 5;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#trackTint}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#trackTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9661,11 +9659,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:trackTint
+          @attr name SaafiApp.Droid.SaafiApp.Droid:trackTint
         */
         public static final int SwitchCompat_trackTint = 6;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#trackTintMode}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#trackTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9682,7 +9680,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name SaafiApp.SaafiApp:trackTintMode
+          @attr name SaafiApp.Droid.SaafiApp.Droid:trackTintMode
         */
         public static final int SwitchCompat_trackTintMode = 7;
         /** Attributes that can be used with a TabItem.
@@ -9726,22 +9724,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #TabLayout_tabBackground SaafiApp.SaafiApp:tabBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabContentStart SaafiApp.SaafiApp:tabContentStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabGravity SaafiApp.SaafiApp:tabGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorColor SaafiApp.SaafiApp:tabIndicatorColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorHeight SaafiApp.SaafiApp:tabIndicatorHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMaxWidth SaafiApp.SaafiApp:tabMaxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMinWidth SaafiApp.SaafiApp:tabMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMode SaafiApp.SaafiApp:tabMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPadding SaafiApp.SaafiApp:tabPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingBottom SaafiApp.SaafiApp:tabPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingEnd SaafiApp.SaafiApp:tabPaddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingStart SaafiApp.SaafiApp:tabPaddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingTop SaafiApp.SaafiApp:tabPaddingTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabSelectedTextColor SaafiApp.SaafiApp:tabSelectedTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextAppearance SaafiApp.SaafiApp:tabTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextColor SaafiApp.SaafiApp:tabTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabBackground SaafiApp.Droid.SaafiApp.Droid:tabBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabContentStart SaafiApp.Droid.SaafiApp.Droid:tabContentStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabGravity SaafiApp.Droid.SaafiApp.Droid:tabGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorColor SaafiApp.Droid.SaafiApp.Droid:tabIndicatorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorHeight SaafiApp.Droid.SaafiApp.Droid:tabIndicatorHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMaxWidth SaafiApp.Droid.SaafiApp.Droid:tabMaxWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMinWidth SaafiApp.Droid.SaafiApp.Droid:tabMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMode SaafiApp.Droid.SaafiApp.Droid:tabMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPadding SaafiApp.Droid.SaafiApp.Droid:tabPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingBottom SaafiApp.Droid.SaafiApp.Droid:tabPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingEnd SaafiApp.Droid.SaafiApp.Droid:tabPaddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingStart SaafiApp.Droid.SaafiApp.Droid:tabPaddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingTop SaafiApp.Droid.SaafiApp.Droid:tabPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabSelectedTextColor SaafiApp.Droid.SaafiApp.Droid:tabSelectedTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextAppearance SaafiApp.Droid.SaafiApp.Droid:tabTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextColor SaafiApp.Droid.SaafiApp.Droid:tabTextColor}</code></td><td></td></tr>
            </table>
            @see #TabLayout_tabBackground
            @see #TabLayout_tabContentStart
@@ -9767,17 +9765,17 @@ containing a value of this type.
             0x7f010136, 0x7f010137, 0x7f010138, 0x7f010139
         };
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#tabBackground}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#tabBackground}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:tabBackground
+          @attr name SaafiApp.Droid.SaafiApp.Droid:tabBackground
         */
         public static final int TabLayout_tabBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#tabContentStart}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#tabContentStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9789,11 +9787,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:tabContentStart
+          @attr name SaafiApp.Droid.SaafiApp.Droid:tabContentStart
         */
         public static final int TabLayout_tabContentStart = 2;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#tabGravity}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#tabGravity}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9806,11 +9804,11 @@ containing a value of this type.
 <tr><td><code>fill</code></td><td>0</td><td></td></tr>
 <tr><td><code>center</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name SaafiApp.SaafiApp:tabGravity
+          @attr name SaafiApp.Droid.SaafiApp.Droid:tabGravity
         */
         public static final int TabLayout_tabGravity = 5;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#tabIndicatorColor}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#tabIndicatorColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9821,11 +9819,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:tabIndicatorColor
+          @attr name SaafiApp.Droid.SaafiApp.Droid:tabIndicatorColor
         */
         public static final int TabLayout_tabIndicatorColor = 0;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#tabIndicatorHeight}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#tabIndicatorHeight}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9837,11 +9835,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:tabIndicatorHeight
+          @attr name SaafiApp.Droid.SaafiApp.Droid:tabIndicatorHeight
         */
         public static final int TabLayout_tabIndicatorHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#tabMaxWidth}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#tabMaxWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9853,11 +9851,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:tabMaxWidth
+          @attr name SaafiApp.Droid.SaafiApp.Droid:tabMaxWidth
         */
         public static final int TabLayout_tabMaxWidth = 7;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#tabMinWidth}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#tabMinWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9869,11 +9867,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:tabMinWidth
+          @attr name SaafiApp.Droid.SaafiApp.Droid:tabMinWidth
         */
         public static final int TabLayout_tabMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#tabMode}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#tabMode}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9886,11 +9884,11 @@ containing a value of this type.
 <tr><td><code>scrollable</code></td><td>0</td><td></td></tr>
 <tr><td><code>fixed</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name SaafiApp.SaafiApp:tabMode
+          @attr name SaafiApp.Droid.SaafiApp.Droid:tabMode
         */
         public static final int TabLayout_tabMode = 4;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#tabPadding}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#tabPadding}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9902,11 +9900,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:tabPadding
+          @attr name SaafiApp.Droid.SaafiApp.Droid:tabPadding
         */
         public static final int TabLayout_tabPadding = 15;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#tabPaddingBottom}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#tabPaddingBottom}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9918,11 +9916,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:tabPaddingBottom
+          @attr name SaafiApp.Droid.SaafiApp.Droid:tabPaddingBottom
         */
         public static final int TabLayout_tabPaddingBottom = 14;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#tabPaddingEnd}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#tabPaddingEnd}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9934,11 +9932,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:tabPaddingEnd
+          @attr name SaafiApp.Droid.SaafiApp.Droid:tabPaddingEnd
         */
         public static final int TabLayout_tabPaddingEnd = 13;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#tabPaddingStart}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#tabPaddingStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9950,11 +9948,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:tabPaddingStart
+          @attr name SaafiApp.Droid.SaafiApp.Droid:tabPaddingStart
         */
         public static final int TabLayout_tabPaddingStart = 11;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#tabPaddingTop}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#tabPaddingTop}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9966,11 +9964,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:tabPaddingTop
+          @attr name SaafiApp.Droid.SaafiApp.Droid:tabPaddingTop
         */
         public static final int TabLayout_tabPaddingTop = 12;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#tabSelectedTextColor}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#tabSelectedTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9981,21 +9979,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:tabSelectedTextColor
+          @attr name SaafiApp.Droid.SaafiApp.Droid:tabSelectedTextColor
         */
         public static final int TabLayout_tabSelectedTextColor = 10;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#tabTextAppearance}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#tabTextAppearance}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:tabTextAppearance
+          @attr name SaafiApp.Droid.SaafiApp.Droid:tabTextAppearance
         */
         public static final int TabLayout_tabTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#tabTextColor}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#tabTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10006,7 +10004,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:tabTextColor
+          @attr name SaafiApp.Droid.SaafiApp.Droid:tabTextColor
         */
         public static final int TabLayout_tabTextColor = 9;
         /** Attributes that can be used with a TextAppearance.
@@ -10024,7 +10022,7 @@ containing a value of this type.
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps SaafiApp.SaafiApp:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps SaafiApp.Droid.SaafiApp.Droid:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_shadowColor
            @see #TextAppearance_android_shadowDx
@@ -10097,14 +10095,14 @@ containing a value of this type.
         */
         public static final int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name SaafiApp.SaafiApp:textAllCaps
+          @attr name SaafiApp.Droid.SaafiApp.Droid:textAllCaps
         */
         public static final int TextAppearance_textAllCaps = 9;
         /** Attributes that can be used with a TextInputLayout.
@@ -10115,20 +10113,20 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
            <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterEnabled SaafiApp.SaafiApp:counterEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterMaxLength SaafiApp.SaafiApp:counterMaxLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance SaafiApp.SaafiApp:counterOverflowTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterTextAppearance SaafiApp.SaafiApp:counterTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorEnabled SaafiApp.SaafiApp:errorEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorTextAppearance SaafiApp.SaafiApp:errorTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled SaafiApp.SaafiApp:hintAnimationEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintEnabled SaafiApp.SaafiApp:hintEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintTextAppearance SaafiApp.SaafiApp:hintTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription SaafiApp.SaafiApp:passwordToggleContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable SaafiApp.SaafiApp:passwordToggleDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled SaafiApp.SaafiApp:passwordToggleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTint SaafiApp.SaafiApp:passwordToggleTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode SaafiApp.SaafiApp:passwordToggleTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterEnabled SaafiApp.Droid.SaafiApp.Droid:counterEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterMaxLength SaafiApp.Droid.SaafiApp.Droid:counterMaxLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance SaafiApp.Droid.SaafiApp.Droid:counterOverflowTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterTextAppearance SaafiApp.Droid.SaafiApp.Droid:counterTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorEnabled SaafiApp.Droid.SaafiApp.Droid:errorEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorTextAppearance SaafiApp.Droid.SaafiApp.Droid:errorTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled SaafiApp.Droid.SaafiApp.Droid:hintAnimationEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintEnabled SaafiApp.Droid.SaafiApp.Droid:hintEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintTextAppearance SaafiApp.Droid.SaafiApp.Droid:hintTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription SaafiApp.Droid.SaafiApp.Droid:passwordToggleContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable SaafiApp.Droid.SaafiApp.Droid:passwordToggleDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled SaafiApp.Droid.SaafiApp.Droid:passwordToggleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTint SaafiApp.Droid.SaafiApp.Droid:passwordToggleTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode SaafiApp.Droid.SaafiApp.Droid:passwordToggleTintMode}</code></td><td></td></tr>
            </table>
            @see #TextInputLayout_android_hint
            @see #TextInputLayout_android_textColorHint
@@ -10166,7 +10164,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int TextInputLayout_android_textColorHint = 0;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#counterEnabled}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#counterEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10176,11 +10174,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:counterEnabled
+          @attr name SaafiApp.Droid.SaafiApp.Droid:counterEnabled
         */
         public static final int TextInputLayout_counterEnabled = 6;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#counterMaxLength}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#counterMaxLength}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10190,31 +10188,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:counterMaxLength
+          @attr name SaafiApp.Droid.SaafiApp.Droid:counterMaxLength
         */
         public static final int TextInputLayout_counterMaxLength = 7;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#counterOverflowTextAppearance}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#counterOverflowTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:counterOverflowTextAppearance
+          @attr name SaafiApp.Droid.SaafiApp.Droid:counterOverflowTextAppearance
         */
         public static final int TextInputLayout_counterOverflowTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#counterTextAppearance}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#counterTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:counterTextAppearance
+          @attr name SaafiApp.Droid.SaafiApp.Droid:counterTextAppearance
         */
         public static final int TextInputLayout_counterTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#errorEnabled}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#errorEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10224,21 +10222,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:errorEnabled
+          @attr name SaafiApp.Droid.SaafiApp.Droid:errorEnabled
         */
         public static final int TextInputLayout_errorEnabled = 4;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#errorTextAppearance}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#errorTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:errorTextAppearance
+          @attr name SaafiApp.Droid.SaafiApp.Droid:errorTextAppearance
         */
         public static final int TextInputLayout_errorTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#hintAnimationEnabled}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#hintAnimationEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10248,11 +10246,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:hintAnimationEnabled
+          @attr name SaafiApp.Droid.SaafiApp.Droid:hintAnimationEnabled
         */
         public static final int TextInputLayout_hintAnimationEnabled = 10;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#hintEnabled}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#hintEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10262,21 +10260,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:hintEnabled
+          @attr name SaafiApp.Droid.SaafiApp.Droid:hintEnabled
         */
         public static final int TextInputLayout_hintEnabled = 3;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#hintTextAppearance}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#hintTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:hintTextAppearance
+          @attr name SaafiApp.Droid.SaafiApp.Droid:hintTextAppearance
         */
         public static final int TextInputLayout_hintTextAppearance = 2;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#passwordToggleContentDescription}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#passwordToggleContentDescription}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10286,21 +10284,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:passwordToggleContentDescription
+          @attr name SaafiApp.Droid.SaafiApp.Droid:passwordToggleContentDescription
         */
         public static final int TextInputLayout_passwordToggleContentDescription = 13;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#passwordToggleDrawable}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#passwordToggleDrawable}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:passwordToggleDrawable
+          @attr name SaafiApp.Droid.SaafiApp.Droid:passwordToggleDrawable
         */
         public static final int TextInputLayout_passwordToggleDrawable = 12;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#passwordToggleEnabled}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#passwordToggleEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10310,11 +10308,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:passwordToggleEnabled
+          @attr name SaafiApp.Droid.SaafiApp.Droid:passwordToggleEnabled
         */
         public static final int TextInputLayout_passwordToggleEnabled = 11;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#passwordToggleTint}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#passwordToggleTint}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10325,11 +10323,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:passwordToggleTint
+          @attr name SaafiApp.Droid.SaafiApp.Droid:passwordToggleTint
         */
         public static final int TextInputLayout_passwordToggleTint = 14;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#passwordToggleTintMode}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#passwordToggleTintMode}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10345,7 +10343,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name SaafiApp.SaafiApp:passwordToggleTintMode
+          @attr name SaafiApp.Droid.SaafiApp.Droid:passwordToggleTintMode
         */
         public static final int TextInputLayout_passwordToggleTintMode = 15;
         /** Attributes that can be used with a Toolbar.
@@ -10356,33 +10354,33 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_buttonGravity SaafiApp.SaafiApp:buttonGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription SaafiApp.SaafiApp:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon SaafiApp.SaafiApp:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd SaafiApp.SaafiApp:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions SaafiApp.SaafiApp:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft SaafiApp.SaafiApp:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight SaafiApp.SaafiApp:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart SaafiApp.SaafiApp:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation SaafiApp.SaafiApp:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logo SaafiApp.SaafiApp:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription SaafiApp.SaafiApp:logoDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight SaafiApp.SaafiApp:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription SaafiApp.SaafiApp:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon SaafiApp.SaafiApp:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme SaafiApp.SaafiApp:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle SaafiApp.SaafiApp:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance SaafiApp.SaafiApp:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor SaafiApp.SaafiApp:subtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title SaafiApp.SaafiApp:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargin SaafiApp.SaafiApp:titleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom SaafiApp.SaafiApp:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd SaafiApp.SaafiApp:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart SaafiApp.SaafiApp:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop SaafiApp.SaafiApp:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins SaafiApp.SaafiApp:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance SaafiApp.SaafiApp:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor SaafiApp.SaafiApp:titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_buttonGravity SaafiApp.Droid.SaafiApp.Droid:buttonGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription SaafiApp.Droid.SaafiApp.Droid:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon SaafiApp.Droid.SaafiApp.Droid:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd SaafiApp.Droid.SaafiApp.Droid:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions SaafiApp.Droid.SaafiApp.Droid:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft SaafiApp.Droid.SaafiApp.Droid:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight SaafiApp.Droid.SaafiApp.Droid:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart SaafiApp.Droid.SaafiApp.Droid:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation SaafiApp.Droid.SaafiApp.Droid:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logo SaafiApp.Droid.SaafiApp.Droid:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logoDescription SaafiApp.Droid.SaafiApp.Droid:logoDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight SaafiApp.Droid.SaafiApp.Droid:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription SaafiApp.Droid.SaafiApp.Droid:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon SaafiApp.Droid.SaafiApp.Droid:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme SaafiApp.Droid.SaafiApp.Droid:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle SaafiApp.Droid.SaafiApp.Droid:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance SaafiApp.Droid.SaafiApp.Droid:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor SaafiApp.Droid.SaafiApp.Droid:subtitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title SaafiApp.Droid.SaafiApp.Droid:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargin SaafiApp.Droid.SaafiApp.Droid:titleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom SaafiApp.Droid.SaafiApp.Droid:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd SaafiApp.Droid.SaafiApp.Droid:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart SaafiApp.Droid.SaafiApp.Droid:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop SaafiApp.Droid.SaafiApp.Droid:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins SaafiApp.Droid.SaafiApp.Droid:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance SaafiApp.Droid.SaafiApp.Droid:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor SaafiApp.Droid.SaafiApp.Droid:titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -10437,7 +10435,7 @@ containing a value of this type.
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#buttonGravity}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#buttonGravity}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10450,11 +10448,11 @@ containing a value of this type.
 <tr><td><code>top</code></td><td>0x30</td><td></td></tr>
 <tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
 </table>
-          @attr name SaafiApp.SaafiApp:buttonGravity
+          @attr name SaafiApp.Droid.SaafiApp.Droid:buttonGravity
         */
         public static final int Toolbar_buttonGravity = 21;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10464,21 +10462,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:collapseContentDescription
+          @attr name SaafiApp.Droid.SaafiApp.Droid:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 23;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:collapseIcon
+          @attr name SaafiApp.Droid.SaafiApp.Droid:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 22;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10490,11 +10488,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:contentInsetEnd
+          @attr name SaafiApp.Droid.SaafiApp.Droid:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 6;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10506,11 +10504,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:contentInsetEndWithActions
+          @attr name SaafiApp.Droid.SaafiApp.Droid:contentInsetEndWithActions
         */
         public static final int Toolbar_contentInsetEndWithActions = 10;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10522,11 +10520,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:contentInsetLeft
+          @attr name SaafiApp.Droid.SaafiApp.Droid:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10538,11 +10536,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:contentInsetRight
+          @attr name SaafiApp.Droid.SaafiApp.Droid:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 8;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10554,11 +10552,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:contentInsetStart
+          @attr name SaafiApp.Droid.SaafiApp.Droid:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 5;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10570,21 +10568,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:contentInsetStartWithNavigation
+          @attr name SaafiApp.Droid.SaafiApp.Droid:contentInsetStartWithNavigation
         */
         public static final int Toolbar_contentInsetStartWithNavigation = 9;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#logo}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#logo}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:logo
+          @attr name SaafiApp.Droid.SaafiApp.Droid:logo
         */
         public static final int Toolbar_logo = 4;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#logoDescription}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#logoDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10594,11 +10592,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:logoDescription
+          @attr name SaafiApp.Droid.SaafiApp.Droid:logoDescription
         */
         public static final int Toolbar_logoDescription = 26;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10610,11 +10608,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:maxButtonHeight
+          @attr name SaafiApp.Droid.SaafiApp.Droid:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 20;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10624,31 +10622,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:navigationContentDescription
+          @attr name SaafiApp.Droid.SaafiApp.Droid:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 25;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:navigationIcon
+          @attr name SaafiApp.Droid.SaafiApp.Droid:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 24;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:popupTheme
+          @attr name SaafiApp.Droid.SaafiApp.Droid:popupTheme
         */
         public static final int Toolbar_popupTheme = 11;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10658,21 +10656,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:subtitle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:subtitleTextAppearance
+          @attr name SaafiApp.Droid.SaafiApp.Droid:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 13;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#subtitleTextColor}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#subtitleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10683,11 +10681,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:subtitleTextColor
+          @attr name SaafiApp.Droid.SaafiApp.Droid:subtitleTextColor
         */
         public static final int Toolbar_subtitleTextColor = 28;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#title}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10697,11 +10695,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:title
+          @attr name SaafiApp.Droid.SaafiApp.Droid:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#titleMargin}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#titleMargin}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10713,11 +10711,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:titleMargin
+          @attr name SaafiApp.Droid.SaafiApp.Droid:titleMargin
         */
         public static final int Toolbar_titleMargin = 14;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10729,11 +10727,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:titleMarginBottom
+          @attr name SaafiApp.Droid.SaafiApp.Droid:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 18;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10745,11 +10743,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:titleMarginEnd
+          @attr name SaafiApp.Droid.SaafiApp.Droid:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 16;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10761,11 +10759,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:titleMarginStart
+          @attr name SaafiApp.Droid.SaafiApp.Droid:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 15;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10777,11 +10775,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:titleMarginTop
+          @attr name SaafiApp.Droid.SaafiApp.Droid:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 17;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10793,21 +10791,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:titleMargins
+          @attr name SaafiApp.Droid.SaafiApp.Droid:titleMargins
         */
         public static final int Toolbar_titleMargins = 19;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:titleTextAppearance
+          @attr name SaafiApp.Droid.SaafiApp.Droid:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 12;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#titleTextColor}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#titleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10818,7 +10816,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:titleTextColor
+          @attr name SaafiApp.Droid.SaafiApp.Droid:titleTextColor
         */
         public static final int Toolbar_titleTextColor = 27;
         /** Attributes that can be used with a View.
@@ -10829,9 +10827,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd SaafiApp.SaafiApp:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart SaafiApp.SaafiApp:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme SaafiApp.SaafiApp:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd SaafiApp.Droid.SaafiApp.Droid:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart SaafiApp.Droid.SaafiApp.Droid:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme SaafiApp.Droid.SaafiApp.Droid:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -10856,7 +10854,7 @@ containing a value of this type.
         */
         public static final int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -10868,11 +10866,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:paddingEnd
+          @attr name SaafiApp.Droid.SaafiApp.Droid:paddingEnd
         */
         public static final int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -10884,17 +10882,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:paddingStart
+          @attr name SaafiApp.Droid.SaafiApp.Droid:paddingStart
         */
         public static final int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#theme}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name SaafiApp.SaafiApp:theme
+          @attr name SaafiApp.Droid.SaafiApp.Droid:theme
         */
         public static final int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -10904,8 +10902,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint SaafiApp.SaafiApp:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode SaafiApp.SaafiApp:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint SaafiApp.Droid.SaafiApp.Droid:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode SaafiApp.Droid.SaafiApp.Droid:backgroundTintMode}</code></td><td></td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
@@ -10921,7 +10919,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#backgroundTint}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -10932,11 +10930,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:backgroundTint
+          @attr name SaafiApp.Droid.SaafiApp.Droid:backgroundTint
         */
         public static final int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -10952,7 +10950,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name SaafiApp.SaafiApp:backgroundTintMode
+          @attr name SaafiApp.Droid.SaafiApp.Droid:backgroundTintMode
         */
         public static final int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.
@@ -10996,13 +10994,13 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #calendar_cell_tsquare_state_current_month SaafiApp.SaafiApp:tsquare_state_current_month}</code></td><td></td></tr>
-           <tr><td><code>{@link #calendar_cell_tsquare_state_highlighted SaafiApp.SaafiApp:tsquare_state_highlighted}</code></td><td></td></tr>
-           <tr><td><code>{@link #calendar_cell_tsquare_state_range_first SaafiApp.SaafiApp:tsquare_state_range_first}</code></td><td></td></tr>
-           <tr><td><code>{@link #calendar_cell_tsquare_state_range_last SaafiApp.SaafiApp:tsquare_state_range_last}</code></td><td></td></tr>
-           <tr><td><code>{@link #calendar_cell_tsquare_state_range_middle SaafiApp.SaafiApp:tsquare_state_range_middle}</code></td><td></td></tr>
-           <tr><td><code>{@link #calendar_cell_tsquare_state_selectable SaafiApp.SaafiApp:tsquare_state_selectable}</code></td><td></td></tr>
-           <tr><td><code>{@link #calendar_cell_tsquare_state_today SaafiApp.SaafiApp:tsquare_state_today}</code></td><td></td></tr>
+           <tr><td><code>{@link #calendar_cell_tsquare_state_current_month SaafiApp.Droid.SaafiApp.Droid:tsquare_state_current_month}</code></td><td></td></tr>
+           <tr><td><code>{@link #calendar_cell_tsquare_state_highlighted SaafiApp.Droid.SaafiApp.Droid:tsquare_state_highlighted}</code></td><td></td></tr>
+           <tr><td><code>{@link #calendar_cell_tsquare_state_range_first SaafiApp.Droid.SaafiApp.Droid:tsquare_state_range_first}</code></td><td></td></tr>
+           <tr><td><code>{@link #calendar_cell_tsquare_state_range_last SaafiApp.Droid.SaafiApp.Droid:tsquare_state_range_last}</code></td><td></td></tr>
+           <tr><td><code>{@link #calendar_cell_tsquare_state_range_middle SaafiApp.Droid.SaafiApp.Droid:tsquare_state_range_middle}</code></td><td></td></tr>
+           <tr><td><code>{@link #calendar_cell_tsquare_state_selectable SaafiApp.Droid.SaafiApp.Droid:tsquare_state_selectable}</code></td><td></td></tr>
+           <tr><td><code>{@link #calendar_cell_tsquare_state_today SaafiApp.Droid.SaafiApp.Droid:tsquare_state_today}</code></td><td></td></tr>
            </table>
            @see #calendar_cell_tsquare_state_current_month
            @see #calendar_cell_tsquare_state_highlighted
@@ -11017,7 +11015,7 @@ containing a value of this type.
             0x7f010152, 0x7f010153, 0x7f010154
         };
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#tsquare_state_current_month}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#tsquare_state_current_month}
           attribute's value can be found in the {@link #calendar_cell} array.
 
 
@@ -11027,11 +11025,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:tsquare_state_current_month
+          @attr name SaafiApp.Droid.SaafiApp.Droid:tsquare_state_current_month
         */
         public static final int calendar_cell_tsquare_state_current_month = 1;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#tsquare_state_highlighted}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#tsquare_state_highlighted}
           attribute's value can be found in the {@link #calendar_cell} array.
 
 
@@ -11041,11 +11039,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:tsquare_state_highlighted
+          @attr name SaafiApp.Droid.SaafiApp.Droid:tsquare_state_highlighted
         */
         public static final int calendar_cell_tsquare_state_highlighted = 6;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#tsquare_state_range_first}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#tsquare_state_range_first}
           attribute's value can be found in the {@link #calendar_cell} array.
 
 
@@ -11055,11 +11053,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:tsquare_state_range_first
+          @attr name SaafiApp.Droid.SaafiApp.Droid:tsquare_state_range_first
         */
         public static final int calendar_cell_tsquare_state_range_first = 3;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#tsquare_state_range_last}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#tsquare_state_range_last}
           attribute's value can be found in the {@link #calendar_cell} array.
 
 
@@ -11069,11 +11067,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:tsquare_state_range_last
+          @attr name SaafiApp.Droid.SaafiApp.Droid:tsquare_state_range_last
         */
         public static final int calendar_cell_tsquare_state_range_last = 5;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#tsquare_state_range_middle}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#tsquare_state_range_middle}
           attribute's value can be found in the {@link #calendar_cell} array.
 
 
@@ -11083,11 +11081,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:tsquare_state_range_middle
+          @attr name SaafiApp.Droid.SaafiApp.Droid:tsquare_state_range_middle
         */
         public static final int calendar_cell_tsquare_state_range_middle = 4;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#tsquare_state_selectable}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#tsquare_state_selectable}
           attribute's value can be found in the {@link #calendar_cell} array.
 
 
@@ -11097,11 +11095,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:tsquare_state_selectable
+          @attr name SaafiApp.Droid.SaafiApp.Droid:tsquare_state_selectable
         */
         public static final int calendar_cell_tsquare_state_selectable = 0;
         /**
-          <p>This symbol is the offset where the {@link SaafiApp.SaafiApp.R.attr#tsquare_state_today}
+          <p>This symbol is the offset where the {@link SaafiApp.Droid.SaafiApp.Droid.R.attr#tsquare_state_today}
           attribute's value can be found in the {@link #calendar_cell} array.
 
 
@@ -11111,7 +11109,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name SaafiApp.SaafiApp:tsquare_state_today
+          @attr name SaafiApp.Droid.SaafiApp.Droid:tsquare_state_today
         */
         public static final int calendar_cell_tsquare_state_today = 2;
     };
