@@ -1,1 +1,2 @@
 C:\Users\habdi\Desktop\SaafiApp\SaafiApp\SaafiApp.Droid\obj\Debug\SaafiApp.Droid.csprojResolveAssemblyReference.cache
+C:\Users\habdi\Desktop\SaafiApp\SaafiApp\SaafiApp.Droid\obj\Debug\SaafiApp.Droid.csproj.CoreCompileInputs.cache
