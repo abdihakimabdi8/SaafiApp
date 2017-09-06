@@ -4457,8 +4457,11 @@ namespace SaafiApp.Droid
 			
 			// aapt resource value: 0x7f080022
 			public const int wrap_content = 2131230754;
-			
-			static Id()
+            internal static int calendar;
+            internal static int buttonLeft;
+            internal static int buttonRight;
+
+            static Id()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
 			}
